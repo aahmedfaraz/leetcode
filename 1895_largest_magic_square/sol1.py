@@ -8,7 +8,7 @@ class Solution:
         if gridRows == 1 and gridCols == 1: return 1
 
         # Check all possible squares of size 2 up to gridRows
-        for size in range(2, gridRows + 1):
+        for size in range(2, min(gridRows, gridCols) + 1):
             for row in range(gridRows - size + 1):
                 for col in range(gridCols - size + 1):
                     if self.isMagicSquare(row, col, size, grid):
