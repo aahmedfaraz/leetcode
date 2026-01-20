@@ -2,7 +2,7 @@ class Solution:
     def maxSideLength(self, mat: List[List[int]], threshold: int) -> int:
         rows, cols = len(mat), len(mat[0])
 
-        # 1️⃣ Build 2D prefix sum
+        # Build 2D prefix sum
         prefix = [[0] * (cols + 1) for _ in range(rows + 1)]
 
         for r in range(1, rows + 1):
@@ -14,7 +14,7 @@ class Solution:
                     - prefix[r-1][c-1]
                 )
 
-        # 2️⃣ Helper to check if square of size k exists
+        # Function to check if square of size k exists
         def exists_square(k):
             for r in range(k, rows + 1):
                 for c in range(k, cols + 1):
@@ -28,7 +28,7 @@ class Solution:
                         return True
             return False
 
-        # 3️⃣ Binary search on size
+        # Binary search on size
         left, right = 0, min(rows, cols)
         ans = 0
 
