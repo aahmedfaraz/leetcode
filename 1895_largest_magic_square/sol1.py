@@ -76,7 +76,6 @@ Solution().largestMagicSquare([[5,1,3,1],
                                [1,3,3,8]])
 
 # Time Complexity: O(n^3 * m^3) in the worst case, where n = number of rows, m = number of columns.
-#   - We check all squares of size 2 to n (or m) → O(n*m*size^2) → roughly O(n^3 * m^3)
 # Space Complexity: O(size^2) for the temporary `square` array in `isMagicSquare` function.
 
 # OUTPUT:
