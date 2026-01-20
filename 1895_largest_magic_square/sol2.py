@@ -46,6 +46,16 @@ class Solution:
 
         return 1
 
+# Example usage:
+print(Solution().largestMagicSquare([[7,1,4,5,6],
+                                     [2,5,1,6,4],
+                                     [1,5,4,3,2],
+                                     [1,2,7,3,4]]))
+
+print(Solution().largestMagicSquare([[5,1,3,1],
+                                     [9,3,3,1],
+                                     [1,3,3,8]]))
+
 # Time Complexity:
 # Building prefix sums: O(m * n)
 # For each possible square size k, we scan all positions O(m * n)
