@@ -37,7 +37,7 @@ print(Solution().minimumPairRemoval([1, 2, 2]))     # Example 2
 # - building sums: O(n)
 # - finding min and its index: O(n)
 # - deleting an element: O(n)
-# In the worst case, the loop runs O(n) times → O(n^2) overall.
+# In the worst case, the loop runs O(n) times -> O(n^2) overall.
 
 # Space Complexity:
 # O(n) for the sums list in each iteration.
