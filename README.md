@@ -6,6 +6,7 @@ This repo contains my leetcode practice
 ## Array
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/aahmedfaraz/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/aahmedfaraz/leetcode/tree/master/1895-largest-magic-square) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/aahmedfaraz/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -27,4 +28,8 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/aahmedfaraz/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/aahmedfaraz/leetcode/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
