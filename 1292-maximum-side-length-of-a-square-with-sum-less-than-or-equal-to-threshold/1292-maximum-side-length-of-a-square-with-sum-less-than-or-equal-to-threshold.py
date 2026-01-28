@@ -41,9 +41,3 @@ class Solution:
                 right = mid - 1  # try smaller square
 
         return ans
-
-# Time Complexity:
-# Prefix sum construction: O(rows * cols)
-# Binary search runs O(log(min(rows, cols))) times
-# Each exists_square check scans the matrix: O(rows * cols)
-# Overall Time Complexity: O(rows * cols * log(min(rows, cols)))
