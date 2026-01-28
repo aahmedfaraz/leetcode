@@ -11,4 +11,3 @@ class Solution:
             elif diff == min_diff:
                 min_arr.append([arr[i], arr[i+1]])
         return min_arr
-        
