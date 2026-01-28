@@ -5,7 +5,7 @@ class Solution:
         if k == 1:  # Only one element, difference is 0
             return 0
         
-        nums.sort() # O(n)
+        nums.sort() # O(n log n)
         n = len(nums)
         min_diff = float('inf')
         
@@ -15,5 +15,5 @@ class Solution:
         
         return min_diff
 
-# Time complexity = O(n)
+# Time complexity = O(n log n)
 # space = O(1)
