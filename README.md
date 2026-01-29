@@ -6,6 +6,7 @@ This repo contains my leetcode practice
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0001-two-sum) |
 | [1200-minimum-absolute-difference](https://github.com/aahmedfaraz/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/aahmedfaraz/leetcode/tree/master/1895-largest-magic-square) |
@@ -57,6 +58,7 @@ This repo contains my leetcode practice
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0001-two-sum) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Linked List
 |  |
