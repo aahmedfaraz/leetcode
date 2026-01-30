@@ -84,6 +84,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aahmedfaraz/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/aahmedfaraz/leetcode/tree/master/0008-string-to-integer-atoi) |
 ## Dynamic Programming
 |  |
 | ------- |
