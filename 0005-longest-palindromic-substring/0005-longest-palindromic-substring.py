@@ -1,10 +1,7 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         size = len(s)
-
-        if size == 1: return s
-        if size == 2: return s if s[0] == s[1] else s[0]
-
+        
         lps = ""
 
         for i in range(size): # O(n)
