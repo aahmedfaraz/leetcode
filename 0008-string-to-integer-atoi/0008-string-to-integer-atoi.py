@@ -1,30 +1,37 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
-        nums = '1234567890'
-        integer = ""
-        found_non_digit_char = False
-        found_num = False
-        found_char = False
-        found_sign = False
-        for i in range(len(s)):
-            if s[i] in nums:
-                integer += s[i]
-                found_num = True
-            elif found_num or found_char:
-                break
-            elif s[i] == "-":
-                if found_sign: break
-                integer = '-'
-                found_sign = True
-            elif s[i] == "+":
-                if found_sign: break
-                found_char = True
-            elif s[i] != " ":
-                break
-        
-        int_size = len(integer)
-        integer = 0 if int_size == 0 or (int_size == 1 and integer[0] == '-') else int(integer)
-        MIN = -2147483648
-        MAX =  2147483647
+        if s == "": return 0
 
-        return MAX if integer > MAX else (MIN if integer < MIN else integer)
+        size = len(s)
+        i = 0
+        num = 0
+
+        # get rid of leading whitespaces
+        while i < size and s[i] == " ":
+            i += 1
+        
+        # determine sign
+        sign = 1
+        if i < size and s[i] in "+-":
+            if s[i] == '-':
+                sign = -1
+            i +=1
+
+        # skip leading zeros
+        while i < size and s[i] == "0":
+            i += 1
+        
+        # read numbers
+        while i < size and s[i].isdigit():
+            num = (num * 10) + (ord(s[i]) - ord("0"))
+            i += 1
+        
+        MIN = -2**31
+        MAX = 2**31 - 1
+        num *= sign
+
+        # apply limit and return
+        return min(MAX, max(MIN, num))
+
+# time complexity = O(n) since we will access all chars of s at most once
+# space complexity = O(1) 
