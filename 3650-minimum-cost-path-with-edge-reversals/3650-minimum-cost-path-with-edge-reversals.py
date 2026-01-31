@@ -1,35 +1,27 @@
 import heapq
-from collections import defaultdict
-
 class Solution:
-    def minCost(self, n: int, edges: list[list[int]]) -> int:
-        # Build adjacency list with forward and reverse edges
-        graph = defaultdict(list)
+    def minCost(self, n: int, edges: List[List[int]]) -> int:
+        adj = [[] for _ in range(n)]
+        
+        # Build adjacency list: original edges + reverse edges with 2*w cost
         for u, v, w in edges:
-            # forward edge with cost w
-            graph[u].append((v, w))
-            # reversed edge with cost 2*w
-            graph[v].append((u, 2 * w))
+            adj[u].append((v, w))       # original
+            adj[v].append((u, 2*w))     # reversed
 
-        # distances array
-        dist = [float('inf')] * n
+        # Dijkstra's shortest path
+        INF = float('inf')
+        dist = [INF] * n
         dist[0] = 0
-
-        # priority queue (cost, node)
-        pq = [(0, 0)]
+        pq = [(0, 0)]  # (cost, node)
 
         while pq:
-            cost, node = heapq.heappop(pq)
-            if cost > dist[node]:
+            cost, u = heapq.heappop(pq)
+            if cost > dist[u]:
                 continue
-            if node == n - 1:
-                return cost  # reached destination
+            for v, w in adj[u]:
+                nxt = cost + w
+                if nxt < dist[v]:
+                    dist[v] = nxt
+                    heapq.heappush(pq, (nxt, v))
 
-            # relax neighbors
-            for nxt, w in graph[node]:
-                new_cost = cost + w
-                if new_cost < dist[nxt]:
-                    dist[nxt] = new_cost
-                    heapq.heappush(pq, (new_cost, nxt))
-
-        return -1 if dist[n - 1] == float('inf') else dist[n - 1]
+        return dist[n-1] if dist[n-1] < INF else -1
