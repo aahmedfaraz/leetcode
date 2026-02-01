@@ -1,27 +1,31 @@
 import heapq
+from collections import defaultdict
+
 class Solution:
-    def minCost(self, n: int, edges: List[List[int]]) -> int:
-        adj = [[] for _ in range(n)]
-        
-        # Build adjacency list: original edges + reverse edges with 2*w cost
+    def minCost(self, n: int, edges: list[list[int]]) -> int:
+        # Build graph: normal edge (u->v, w) and reversed edge (v->u, 2*w)
+        graph = defaultdict(list)
         for u, v, w in edges:
-            adj[u].append((v, w))       # original
-            adj[v].append((u, 2*w))     # reversed
-
-        # Dijkstra's shortest path
-        INF = float('inf')
-        dist = [INF] * n
-        dist[0] = 0
+            graph[u].append((v, w))
+            graph[v].append((u, 2 * w))
+        
+        # Dijkstra's algorithm
         pq = [(0, 0)]  # (cost, node)
-
+        min_costs = {0: 0}
+        
         while pq:
             cost, u = heapq.heappop(pq)
-            if cost > dist[u]:
+            
+            if cost > min_costs.get(u, float('inf')):
                 continue
-            for v, w in adj[u]:
-                nxt = cost + w
-                if nxt < dist[v]:
-                    dist[v] = nxt
-                    heapq.heappush(pq, (nxt, v))
-
-        return dist[n-1] if dist[n-1] < INF else -1
+            
+            if u == n - 1:
+                return cost
+                
+            for v, weight in graph[u]:
+                new_cost = cost + weight
+                if new_cost < min_costs.get(v, float('inf')):
+                    min_costs[v] = new_cost
+                    heapq.heappush(pq, (new_cost, v))
+                    
+        return -1
