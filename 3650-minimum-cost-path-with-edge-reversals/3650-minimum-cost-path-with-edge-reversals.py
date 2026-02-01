@@ -29,3 +29,6 @@ class Solution:
                     heapq.heappush(pq, (new_cost, v))
                     
         return -1
+
+# Time complexity = O(E log V)
+# Space complexity = O(V + E)
