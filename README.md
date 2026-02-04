@@ -89,4 +89,8 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aahmedfaraz/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/aahmedfaraz/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
