@@ -7,6 +7,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aahmedfaraz/leetcode/tree/master/0011-container-with-most-water) |
 | [1200-minimum-absolute-difference](https://github.com/aahmedfaraz/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/aahmedfaraz/leetcode/tree/master/1895-largest-magic-square) |
@@ -80,6 +81,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aahmedfaraz/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/aahmedfaraz/leetcode/tree/master/0011-container-with-most-water) |
 ## String
 |  |
 | ------- |
@@ -93,4 +95,8 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aahmedfaraz/leetcode/tree/master/0009-palindrome-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/aahmedfaraz/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
