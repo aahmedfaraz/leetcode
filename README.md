@@ -11,6 +11,7 @@ This repo contains my leetcode practice
 | [1200-minimum-absolute-difference](https://github.com/aahmedfaraz/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/aahmedfaraz/leetcode/tree/master/1895-largest-magic-square) |
+| [1929-concatenation-of-array](https://github.com/aahmedfaraz/leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aahmedfaraz/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/aahmedfaraz/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -71,6 +72,7 @@ This repo contains my leetcode practice
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/aahmedfaraz/leetcode/tree/master/1929-concatenation-of-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
