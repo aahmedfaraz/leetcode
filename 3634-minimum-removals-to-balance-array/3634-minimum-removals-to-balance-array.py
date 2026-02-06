@@ -8,18 +8,18 @@ class Solution:
 
         # two-pointer, find largest list with balanced elements
         bal_len = 0 # size of largest balanced list
-        i, j = 0, 0
+        left, right = 0, 0
 
-        while j < n:
-            MIN = nums[i]
-            MAX = nums[j]
+        while right < n:
+            MIN = nums[left]
+            MAX = nums[right]
 
             if MAX <= (MIN * k):
-                new_bal_len = j - i + 1
+                new_bal_len = right - left + 1
                 bal_len = max(bal_len, new_bal_len)
-                j += 1
+                right += 1
             else:
-                i += 1
+                left += 1
 
         # total deletions = original list size - size of largest balanced list
         return n - bal_len
