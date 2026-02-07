@@ -24,17 +24,17 @@ class Solution:
             b_on_right = total_b - b_on_left
 
             # make sure border character is excluded
-            a_on_right -= 1 if s[i] == "a" else 0
-            b_on_right -= 1 if s[i] == "b" else 0
+            if s[i] == "a":
+                a_on_right -= 1
+                curr_a_count += 1 # also keep tracking count of "a" for next border
+            else:
+                b_on_right -= 1
 
             # calculate deletion required as per current border
             curr_deletion = b_on_left + a_on_right
 
             # track the min deletion count
             min_deletion = min(min_deletion, curr_deletion)
-
-            # keep tracking count of "a" for next border
-            curr_a_count += 1 if s[i] == "a" else 0
 
         # return min deletion
         return min_deletion
