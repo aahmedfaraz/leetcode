@@ -94,10 +94,12 @@ This repo contains my leetcode practice
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aahmedfaraz/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/aahmedfaraz/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aahmedfaraz/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Math
 |  |
 | ------- |
@@ -106,4 +108,8 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aahmedfaraz/leetcode/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
