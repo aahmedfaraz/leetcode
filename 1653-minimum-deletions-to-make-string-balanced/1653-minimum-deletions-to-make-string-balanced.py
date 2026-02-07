@@ -38,3 +38,11 @@ class Solution:
 
         # return min deletion
         return min_deletion
+
+# Time complexity
+# - count a = O(n)
+# - For loop = O(n)
+# Overall = O(n) + O(n) = O(n), Linear time complexity
+
+# Space complexity
+# O(1), Constant space complexity as we are only saving counts
