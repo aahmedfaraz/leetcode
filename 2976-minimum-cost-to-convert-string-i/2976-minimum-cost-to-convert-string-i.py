@@ -47,7 +47,7 @@ class Solution:
         return res
 
 # Time complexity
-# Floyd Warshall = O(26³) = O(1) constant
+# Floyd Warshall = O(26^3) = O(1) constant
 # Building graph = O(len(original))
 # Final traversal = O(len(source))
 # Total = O(len(source) + len(original))
