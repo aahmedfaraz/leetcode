@@ -39,3 +39,6 @@ class Solution:
         )
 
         return max_vowel_freq + max_consonants_freq
+
+# time complexity = O(n)
+# space complexity = max O(26) = O(1)
