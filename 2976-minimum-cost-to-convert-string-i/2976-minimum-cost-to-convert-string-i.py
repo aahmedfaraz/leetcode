@@ -45,3 +45,13 @@ class Solution:
             res += dist[from_letter][to_letter]
 
         return res
+
+# Time complexity
+# Floyd Warshall = O(26³) = O(1) constant
+# Building graph = O(len(original))
+# Final traversal = O(len(source))
+# Total = O(len(source) + len(original))
+
+# Space complexity
+# Distance matrix = 26 × 26
+# = O(1) constant space
