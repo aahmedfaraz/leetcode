@@ -18,3 +18,11 @@ class Solution:
                 max_consonant_freq = max(max_consonant_freq, frequencies[i])
 
         return max_vowel_freq + max_consonant_freq
+
+# time complexity
+# Frequencies loop = O(n)
+# Calculate Max Freq. = O(26) = O(1)
+# Overall = O(n) + O(26) = O(n)
+
+# space complexity
+# Array saving frequencies = O(26) = O(1)
