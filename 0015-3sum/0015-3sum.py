@@ -17,4 +17,16 @@ class Solution:
                     right -= 1
                 else:
                     left += 1
+
         return list(ans)
+
+# Time complexity
+# - Timsort = O(n log n)
+# - For loop = O(n)
+#   - Nested While loop = O(n)
+#   - Set add = Amortized O(1), only O(n) if found rare hash conflict, so we consider O(1)
+# Overall = O(nlogn) + {O(n) * O(n) * O(1)}
+#         = O(nlogn) + O(n^2)
+#         = O(n^2)
+# Space complexity
+# - ans set = O(n)
