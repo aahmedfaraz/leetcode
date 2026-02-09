@@ -8,6 +8,7 @@ This repo contains my leetcode practice
 | ------- |
 | [0001-two-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aahmedfaraz/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/aahmedfaraz/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aahmedfaraz/leetcode/tree/master/0015-3sum) |
 | [0485-max-consecutive-ones](https://github.com/aahmedfaraz/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1200-minimum-absolute-difference](https://github.com/aahmedfaraz/leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -103,6 +104,7 @@ This repo contains my leetcode practice
 | [0005-longest-palindromic-substring](https://github.com/aahmedfaraz/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/aahmedfaraz/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/aahmedfaraz/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/aahmedfaraz/leetcode/tree/master/0014-longest-common-prefix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aahmedfaraz/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aahmedfaraz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -128,4 +130,8 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aahmedfaraz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aahmedfaraz/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
