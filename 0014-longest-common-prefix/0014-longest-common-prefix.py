@@ -12,3 +12,10 @@ class Solution:
             if len(curr) < len(longest):
                 longest = curr
         return longest
+
+# time complexity
+# - for loop = O(n)
+#   - nested while = O(length of largest string in strs)
+# Overall = O(n) * O(largest str len) = O(n * len of largest string)
+
+# space complexity = O(1), only saving prefix
