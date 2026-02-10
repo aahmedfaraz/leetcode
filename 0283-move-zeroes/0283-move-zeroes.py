@@ -12,4 +12,6 @@ class Solution:
                     i += 1
 
                 j += 1
-        
+
+# Time complexity = O(n)
+# Space complexity = O(1)
