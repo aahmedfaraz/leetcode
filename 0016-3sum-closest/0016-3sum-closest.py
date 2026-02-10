@@ -28,3 +28,14 @@ class Solution:
                     return target  # exact match, obviously this is the closest sum
 
         return closest_sum
+
+# Time complexity
+# - Timsort = O(n log n)
+# - For loop = O(n)
+#   - Nested While loop = O(n)
+# Overall = O(nlogn) + {O(n) * O(n)}
+#         = O(nlogn) + O(n^2)
+#         = O(n^2)
+
+# Space complexity
+# - O(1), only saving closest sum
