@@ -28,19 +28,24 @@ class Solution:
         merged_index = 0  # index in virtual merged array
 
         while k < m or l < n:
-            # choosing smaller element
-            if k < m and (l >= n or nums1[k] <= nums2[l]):
-                current = nums1[k]
+            if k >= m: # nums1 array is finished, take element from nums2
+                curr_selected_num = nums2[l]
+                l += 1
+            elif l >= n: # nums2 array is finished, take element from nums1
+                curr_selected_num = nums1[k]
+                k += 1
+            elif nums1[k] <= nums2[l]: # both arrays have elements, pick smaller element
+                curr_selected_num = nums1[k]
                 k += 1
             else:
-                current = nums2[l]
+                curr_selected_num = nums2[l]
                 l += 1
 
             # save median values when index matches
             if merged_index == i:
-                med_num1 = current
+                med_num1 = curr_selected_num
             if merged_index == j:
-                med_num2 = current
+                med_num2 = curr_selected_num
 
             merged_index += 1
 
