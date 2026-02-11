@@ -7,6 +7,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/aahmedfaraz/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aahmedfaraz/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/aahmedfaraz/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aahmedfaraz/leetcode/tree/master/0015-3sum) |
@@ -37,6 +38,7 @@ This repo contains my leetcode practice
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aahmedfaraz/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Bit Manipulation
 |  |
@@ -139,4 +141,8 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aahmedfaraz/leetcode/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aahmedfaraz/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
