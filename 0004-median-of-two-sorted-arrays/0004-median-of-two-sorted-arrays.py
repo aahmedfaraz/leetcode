@@ -42,8 +42,6 @@ class Solution:
             if merged_index > j:
                 break
 
-        print(med_num1, med_num2)
-
         if total % 2 == 0:
             return (med_num1 + med_num2) / 2
         else:
