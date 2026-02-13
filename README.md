@@ -77,6 +77,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/aahmedfaraz/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aahmedfaraz/leetcode/tree/master/0013-roman-to-integer) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aahmedfaraz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -110,6 +111,7 @@ This repo contains my leetcode practice
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aahmedfaraz/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/aahmedfaraz/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/aahmedfaraz/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aahmedfaraz/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aahmedfaraz/leetcode/tree/master/0014-longest-common-prefix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -124,6 +126,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aahmedfaraz/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/aahmedfaraz/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aahmedfaraz/leetcode/tree/master/0013-roman-to-integer) |
 ## Greedy
 |  |
