@@ -28,21 +28,3 @@ class Solution:
                 num %= values[symbol]
         
         return rom
-
-
-        # while num > 0:
-        #     if num >= values[symbols[i]]:
-        #         quan = num // values[symbols[i]]
-        #         rom += symbols[i] * quan
-        #         num %= values[symbols[i]]
-            
-        #     print('before win check', rom)
-        #     # check window of last 5 symbols
-        #     if len(rom) >= 5:
-        #         win = rom[-5:]
-        #         if (win[0] != win[1]) and (win[1] == win[2] == win[3] == win[4]):
-        #             rom = rom[:-5] + win[1] + symbols[i-3]
-        #     print('after win check', rom)
-        #     i += 1
-        
-        # print(rom, count)
