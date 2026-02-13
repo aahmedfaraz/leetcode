@@ -28,3 +28,11 @@ class Solution:
                 num %= values[symbol]
         
         return rom
+
+# Let say length of dictionary "values" is k, So
+
+# Time complexity = O(k) = O(1), because k is constant
+# no matter how bigger the number is, the for loop will run len(values) time only
+
+# Space complexity = O(k) = O(1), because k is constant
+# using dictionary with fixed size and variables
