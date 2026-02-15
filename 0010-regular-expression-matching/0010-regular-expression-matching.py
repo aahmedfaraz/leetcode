@@ -1,5 +1,6 @@
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
+        # BOTTOM-UP Dynamic Programming
         m, n = len(s), len(p)
 
         dp = [[False] * (n+1) for _ in range(m+1)]
@@ -26,3 +27,6 @@ class Solution:
                         dp[i][j] |= dp[i-1][j]
 
         return dp[m][n]
+
+# Time complexity = O(m x n)
+# Space Complexity = O(m × n), because we filled DP table of size (m+1 x n+1)
