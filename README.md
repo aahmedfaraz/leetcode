@@ -119,6 +119,7 @@ This repo contains my leetcode practice
 | [0013-roman-to-integer](https://github.com/aahmedfaraz/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aahmedfaraz/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aahmedfaraz/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/0020-valid-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aahmedfaraz/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aahmedfaraz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -141,6 +142,7 @@ This repo contains my leetcode practice
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/0020-valid-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Counting
 |  |
