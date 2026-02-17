@@ -14,15 +14,15 @@ class Solution:
 
         combs = [""]
 
-        for num in digits: # can run upto 4 times since digits length <= 4
+        for num in digits: # can run upto n
             new_arr = []
             alphabets = data[num] # ['d', 'e', 'f']
             for prev_comb in combs: # prev_comb = 'a' then 'b' then 'c' - can run upto 4^n times
-                for char in alphabets: # char = 'd' then 'e' then 'f' - can run upto 4 times
+                for char in alphabets: # char = 'd' then 'e' then 'f' - can run upto m (m <= 4)
                     new_arr.append(prev_comb + char)
             combs = new_arr
 
         return combs
         
-# Time complexity = 4^n, where n can be max 4 so, 4^4, which is constant due to constraints
-# Space complexity = 4^n, where n is 8 numbers on phone so, 4^7, which is constant again
+# Time complexity = O(n. 4^n), exponential
+# Space complexity = O(n. 4^n), exponential, we save all 4^n possible combinations, where each combination is of n length
