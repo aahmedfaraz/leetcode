@@ -7,14 +7,11 @@ class Solution:
             '{': '}',
             '[': ']'
         }
+        
         for br in s:
             if br in '({[':
                 stack.append(closing[br])
-            elif len(stack) == 0:
+            elif len(stack) == 0 or br != stack.pop():
                 return False
-            elif br != stack.pop():
-                return False
-        
-        if len(stack) > 0: return False
 
-        return True        
+        return False if len(stack) > 0 else True  
