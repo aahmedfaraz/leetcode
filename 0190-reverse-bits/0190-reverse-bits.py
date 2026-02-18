@@ -5,3 +5,6 @@ class Solution:
         rev = binary[::-1] + zeros
         num = int(rev, 2)
         return num
+
+# time complexity = O(b), b = number of bits
+# space complexity = O(b), b = number of bits
