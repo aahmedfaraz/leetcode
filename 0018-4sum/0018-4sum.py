@@ -1,5 +1,16 @@
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
+        
+        #  i        j     k  l
+        #  0    1   2  3  4  5
+        # [-4, -1, -1, 0, 1, 2]     target = -1, n=6, i=6-4=2, j=6-3=3
+
+        # sum = -4, -1, -1, 2 = -4
+        # sum = -4, -1, 0, 2 = -3
+        # sum = -4, -1, 1, 2 = -2
+        # sum = -4, -1, 0, 2 = -3
+        # sum = -4, -1, 1, 2 = -2
+
         n = len(nums)
         if n < 4: return []
 
