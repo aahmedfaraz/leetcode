@@ -6,6 +6,3 @@ class Solution:
                 if (bin(h).count('1') + bin(m).count('1')) == turnedOn:
                     result.append(f"{h}:{m:02d}")
         return result
-
-# time complexity = O(h x m) = O(12 x 60) = O(1)
-# space complexity = O(h x m) = O(12 x 60) = O(1)
