@@ -14,19 +14,13 @@ class Solution:
         n = len(nums)
         if n < 4: return []
 
-        if n == 4:
-            if (nums[0]+nums[1]+nums[2]+nums[3]) == target:
-                return [nums]
-            else:
-                return []
-
-        nums.sort()
+        nums.sort() # time = n log n , space = log n
         quads = set()
 
-        for i in range(n-3):
-            for j in range(i+1, n-2):
+        for i in range(n-3): # n
+            for j in range(i+1, n-2): # n - overall n.n = n^2
                 k, l = j+1, n-1
-                while k < l:
+                while k < l: # n - overall n.n^2 = n^3
                     four_sum = nums[i] + nums[j] + nums[k] + nums[l]
                     if four_sum == target:
                         quads.add((nums[i], nums[j], nums[k], nums[l]))
@@ -37,3 +31,6 @@ class Solution:
                     else:
                         k += 1
         return list(quads)
+
+# Time complexity = O(n log n) + O(n^3) = O(n^3)
+# Space complexity = 
