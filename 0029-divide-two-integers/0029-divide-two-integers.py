@@ -35,3 +35,6 @@ class Solution:
 # - Inner loop - O(log N)
 # Seems - O((log N)^2)
 # Actual - O(log N) - because dividend shrinks exponentially each outer layer
+
+# space complexity
+# O(1)
