@@ -17,9 +17,8 @@ class Solution:
         
         return right
 
-
-
-
+# time complexity: O(log n) -> x = 1,000,000 -> 20
+# space complexity: O(1)
 
 
 
