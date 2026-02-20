@@ -41,6 +41,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aahmedfaraz/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/aahmedfaraz/leetcode/tree/master/0069-sqrtx) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Bit Manipulation
 |  |
@@ -142,6 +143,7 @@ This repo contains my leetcode practice
 | [0012-integer-to-roman](https://github.com/aahmedfaraz/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aahmedfaraz/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/aahmedfaraz/leetcode/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/aahmedfaraz/leetcode/tree/master/0069-sqrtx) |
 ## Greedy
 |  |
 | ------- |
