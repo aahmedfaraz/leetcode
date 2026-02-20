@@ -15,13 +15,23 @@ class Solution:
 
         # bit manipulation
         ans = 0
-        while dividend >= divisor:
+        # dividend = 20
+        while dividend >= divisor: # 20 | 10 | 4 ... divisor
+            print('div', dividend)
             power = 0
             num = divisor
-            while (num << 1) <= dividend:
+            while (num << 1) <= dividend: # num is doubled, loop runs O(log n) - 3 | 6 | ... dividend
+                print("num", num)
                 power += 1
                 num = num << 1
             ans += (2 ** power)
             dividend -= num
         
         return  max(min(sign * ans, MAX), MIN)
+
+# time complexity
+# N = dividend
+# - Outer loop - O(log N)
+# - Inner loop - O(log N)
+# Seems - O((log N)^2)
+# Actual - O(log N) - because dividend shrinks exponentially each outer layer
