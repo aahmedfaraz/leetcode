@@ -45,6 +45,7 @@ This repo contains my leetcode practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/aahmedfaraz/leetcode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/aahmedfaraz/leetcode/tree/master/0401-binary-watch) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/aahmedfaraz/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -140,6 +141,7 @@ This repo contains my leetcode practice
 | [0009-palindrome-number](https://github.com/aahmedfaraz/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/aahmedfaraz/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aahmedfaraz/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/aahmedfaraz/leetcode/tree/master/0029-divide-two-integers) |
 ## Greedy
 |  |
 | ------- |
