@@ -16,3 +16,6 @@ class Solution:
                 return i
         
         return -1
+
+# time complexity = O(m x n)
+# space complexity = O(1)
