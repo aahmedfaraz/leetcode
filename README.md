@@ -15,6 +15,7 @@ This repo contains my leetcode practice
 | [0018-4sum](https://github.com/aahmedfaraz/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aahmedfaraz/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aahmedfaraz/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/aahmedfaraz/leetcode/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/aahmedfaraz/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aahmedfaraz/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/aahmedfaraz/leetcode/tree/master/0704-binary-search) |
@@ -43,6 +44,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aahmedfaraz/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/aahmedfaraz/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aahmedfaraz/leetcode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/aahmedfaraz/leetcode/tree/master/0704-binary-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
