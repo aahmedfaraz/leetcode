@@ -3,12 +3,6 @@ class Solution:
         n = len(haystack)
         m = len(needle)
 
-        #            0 1 2 3 4 5 6 7 8
-        # haystack = s a d b u t s a d = 9
-
-        #          0 1 2
-        # needle = s a d = 3
-
         def checkWindow(ind: int) -> bool:
             if (ind + m) > n: return False
             k = 0
