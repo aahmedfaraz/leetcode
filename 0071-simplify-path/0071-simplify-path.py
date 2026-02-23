@@ -27,3 +27,5 @@ class Solution:
 
         return f"/{"/".join(q)}"
                 
+# time compexity = O(n)
+# space complexity = O(n)
