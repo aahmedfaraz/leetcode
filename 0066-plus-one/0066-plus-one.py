@@ -15,3 +15,6 @@ class Solution:
         else:
             digits[n] = digits[n] + 1
             return digits
+
+# time complexity = O(n)
+# space complexity = O(1) - doing in-place update
