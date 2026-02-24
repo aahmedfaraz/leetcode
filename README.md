@@ -138,6 +138,7 @@ This repo contains my leetcode practice
 | [0020-valid-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/aahmedfaraz/leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/aahmedfaraz/leetcode/tree/master/0071-simplify-path) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aahmedfaraz/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
