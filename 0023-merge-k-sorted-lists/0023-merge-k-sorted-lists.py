@@ -31,3 +31,5 @@ class Solution:
 
         return res.next
 
+# Time complexity = O(n), we are accessing all nodes by once
+# Space complexity = O(1), no extra space is used other than output
