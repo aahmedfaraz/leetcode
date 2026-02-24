@@ -79,6 +79,7 @@ This repo contains my leetcode practice
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/aahmedfaraz/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -99,6 +100,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
 |  |
@@ -181,6 +183,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aahmedfaraz/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0190-reverse-bits) |
 ## Recursion
 |  |
@@ -197,4 +200,8 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
