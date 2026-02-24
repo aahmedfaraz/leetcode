@@ -44,33 +44,6 @@ class Solution:
         
         return -1
 
-
-
-
-
-
-
-
-
-
-#         # NAIVE APPROACH
-
-#         n = len(haystack)
-#         m = len(needle)
-
-#         def checkWindow(ind: int) -> bool:
-#             if (ind + m) > n: return False
-#             k = 0
-#             for i in range(ind, ind + m):
-#                 if haystack[i] != needle[k]: return False
-#                 k += 1
-#             return True
-
-#         for i in range(n):
-#             if haystack[i] == needle[0] and checkWindow(i):
-#                 return i
-        
-#         return -1
-
-# # time complexity = O(m x n)
-# # space complexity = O(1)
+# let m = length of haystack, n = length of needle
+# time complexity = O(m + n)
+# space complexity = O(n)
