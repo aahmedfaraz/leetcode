@@ -13,3 +13,6 @@ class Solution:
                 count += 1
             i -= 1
         return count
+
+# time complexity = O(n)
+# space complexity = O(1)
