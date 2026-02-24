@@ -14,3 +14,5 @@ class Solution:
         add_combination("", ")", 0, 1)
 
         return combs
+
+# time complexity = 
