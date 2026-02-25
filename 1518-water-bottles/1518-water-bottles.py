@@ -9,3 +9,6 @@ class Solution:
             numBottles = newFilled + remainingEmpty # 3 + 0 = 3
 
         return total
+
+# time complexity = O(n/e)
+# space complexity = O(1)
