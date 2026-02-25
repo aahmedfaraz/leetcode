@@ -10,5 +10,5 @@ class Solution:
 
         return total
 
-# time complexity = O(n/e)
+# time complexity = O(log(base k) n), where k = numExchange, n = numBottles
 # space complexity = O(1)
