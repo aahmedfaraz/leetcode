@@ -12,3 +12,6 @@ class Solution:
             _, num = heapq.heappop(heap)
             res.append(num)
         return res
+
+# time complexity = O(n log n), filled heap in O(n), and got min val in O(log n)
+# space complexity = O(n), using heap
