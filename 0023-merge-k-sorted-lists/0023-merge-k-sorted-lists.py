@@ -1,3 +1,5 @@
+import heapq
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -5,6 +7,37 @@
 #         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        heap = []
+
+        # fill heap will all nodes
+        for i, node in enumerate(lists):
+            if node:
+                heapq.heappush(heap, (node.val, i, node))
+
+        res = ListNode()
+        curr = res
+
+        # take smallest elements from heap
+        while heap:
+            val, i, node = heapq.heappop(heap)
+
+            curr.next = node
+            curr = curr.next
+
+            if node.next:
+                heapq.heappush(heap, (node.next.val, i, node.next))
+
+        return res.next
+
+# Time complexity = O(n log k), we are accessing all n nodes by once, finding min in O(log k)
+# Space complexity = O(k), we are usin heap
+
+
+
+
+        '''
+        # Naiva approach
+
         n = len(lists)
         res = ListNode()
         curr = res
@@ -31,5 +64,6 @@ class Solution:
 
         return res.next
 
-# Time complexity = O(n), we are accessing all nodes by once
+# Time complexity = O(n x k), we are accessing all n nodes by once, finding min in O(k)
 # Space complexity = O(1), no extra space is used other than output
+            '''
