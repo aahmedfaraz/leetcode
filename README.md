@@ -104,6 +104,7 @@ This repo contains my leetcode practice
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/aahmedfaraz/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
 |  |
@@ -196,6 +197,7 @@ This repo contains my leetcode practice
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aahmedfaraz/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/aahmedfaraz/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Backtracking
 |  |
 | ------- |
