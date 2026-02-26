@@ -17,3 +17,6 @@ class Solution:
                 curr = curr.next
 
         return dummy.next
+
+# time = O(n), n is length of linked list
+# space = O(1), due to in-place update
