@@ -24,3 +24,6 @@ class Solution:
             currPairFirstNode = currPairFirstNode.next
         
         return dummy.next
+
+# time = O(n), accessing all nodes one time
+# space = O(1), we are updating in-place
