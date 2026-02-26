@@ -17,3 +17,6 @@ class Solution:
             root.val,
             *self.inorderTraversal(root.right)
         ]
+
+# time = O(n)
+# space = O(n), call stack
