@@ -2,6 +2,8 @@ import math
 
 class Solution:
     def fullJustify(self, words: List[str], maxWidth: int) -> List[str]:
+        total_words = len(words)
+        if total_words == 1: return [ words[0] + (" " * (maxWidth - len(words[0]))) ]
 
         def add_spaces(string, maxWidth, lastLine):
             words = string.split(' ')
@@ -10,39 +12,26 @@ class Solution:
             total_letters = len(string) - fill_spaces
             available_spaces = maxWidth - total_letters
 
-            print('String = "' + string + '", maxWidth = ', maxWidth)
-            print('Fill spaces = ', fill_spaces, ', total letters = ', total_letters)
-            print('available spaces = ', available_spaces)
+            if lastLine or total_words == 1: # should be left justified
+                return string + (" " * (maxWidth - len(string)))
 
             res = ""
-            if lastLine or total_words == 1: # should be left justified
-                print('str is last line')
-                res = string + (" " * (maxWidth - len(string)))
-                print('--RES = "' + res + '"')
-            else: # string with 1+ words
-                print('str is initial lines')
-                # fill gap between words
-                for i in range(len(words) - 1):
-                    gap_used = math.ceil(available_spaces / fill_spaces)
-                    res += (words[i] + (" " * gap_used))
-                    available_spaces -= gap_used
-                    fill_spaces -= 1
-                    print('For "' + words[i] + '" gap length used = ', gap_used, ', available spaces = ', available_spaces)
-                # add remaining spaces between last word
-                remaining_spaces = " " * available_spaces
-                print('remaining spaces length = ', len(remaining_spaces))
-                res += remaining_spaces + words[-1]
-                print('--RES = "' + res + '"')
             
-            print('RES = "' + res + '"')
-            print('------')
+            # fill gap between words
+            for i in range(len(words) - 1):
+                gap_used = math.ceil(available_spaces / fill_spaces)
+                res += (words[i] + (" " * gap_used))
+                available_spaces -= gap_used
+                fill_spaces -= 1
+
+            # add remaining spaces before last word
+            remaining_spaces = " " * available_spaces
+            res += remaining_spaces + words[-1]
             return res
         
-        # For only 1 word
-        total_words = len(words)
-        if total_words == 1: return [ words[0] + (" " * (maxWidth - len(words[0]))) ]
-        
         lines = []
+
+        # create lines below the limit of maxWidth
         curr_str = words[0]
         for i in range(1, total_words):
             if (len(curr_str) + len(words[i]) + 1) > maxWidth:
@@ -51,8 +40,7 @@ class Solution:
             else:
                 curr_str += f' {words[i]}'
         
-        # fencepost case
-        if curr_str != "":
-            lines.append(add_spaces(curr_str, maxWidth, True))
+        # last line
+        lines.append(add_spaces(curr_str, maxWidth, True))
             
         return lines
