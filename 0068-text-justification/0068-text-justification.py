@@ -15,32 +15,35 @@ class Solution:
             if lastLine or total_words == 1: # should be left justified
                 return string + (" " * (maxWidth - len(string)))
 
-            res = ""
-            
+            res = []
+
             # fill gap between words
             for i in range(len(words) - 1):
                 gap_used = math.ceil(available_spaces / fill_spaces)
-                res += (words[i] + (" " * gap_used))
+                res.append((words[i] + (" " * gap_used)))
                 available_spaces -= gap_used
                 fill_spaces -= 1
 
             # add remaining spaces before last word
             remaining_spaces = " " * available_spaces
-            res += remaining_spaces + words[-1]
-            return res
+            res.append(remaining_spaces + words[-1])
+            return "".join(res)
         
         lines = []
 
         # create lines below the limit of maxWidth
-        curr_str = words[0]
+        curr_str = [words[0]]
         for i in range(1, total_words):
-            if (len(curr_str) + len(words[i]) + 1) > maxWidth:
-                lines.append(add_spaces(curr_str, maxWidth, False))
-                curr_str = words[i]
+            if (len("".join(curr_str)) + len(words[i]) + 1) > maxWidth:
+                lines.append(add_spaces("".join(curr_str), maxWidth, False))
+                curr_str = [words[i]]
             else:
-                curr_str += f' {words[i]}'
+                curr_str.append(f' {words[i]}')
         
         # last line
-        lines.append(add_spaces(curr_str, maxWidth, True))
+        lines.append(add_spaces("".join(curr_str), maxWidth, True))
             
         return lines
+
+# time complexity = O(L), where L = total characters in all words
+# space complexity = O(L)
