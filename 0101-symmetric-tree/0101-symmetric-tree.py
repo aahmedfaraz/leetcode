@@ -20,3 +20,6 @@ class Solution:
             return dfs(r1.left, r2.right) and dfs(r1.right, r2.left)
 
         return dfs(left, right)
+
+# Time = O(n), all nodes are visited once
+# Space = average O(log n) for balanced tree, worst for skewed tree O(n), recursion stack
