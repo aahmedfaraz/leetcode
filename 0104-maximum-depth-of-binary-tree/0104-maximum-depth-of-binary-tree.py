@@ -17,4 +17,5 @@ class Solution:
 
         return dfs(root, 1)
 
-        
+# Time = O(n)
+# Space = O(n), recursive stack
