@@ -7,15 +7,10 @@
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         if not root: return 0
-        def dfs(root, level = 1):
-            if not root: return level
-            if not root.left and not root.right: return level
-            return max(
-                dfs(root.left, level + 1),
-                dfs(root.right, level + 1)
-            )
-
-        return dfs(root, 1)
+        return max(
+            1 + self.maxDepth(root.left),
+            1 + self.maxDepth(root.right)
+        )
 
 # Time = O(n)
 # Space = O(n), recursive stack
