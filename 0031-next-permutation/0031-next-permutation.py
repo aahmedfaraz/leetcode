@@ -17,3 +17,6 @@ class Solution:
 
         # Reverse rest of the array
         nums[i+1:] = nums[i+1:][::-1]
+
+# Time = O(n)
+# Space = O(1)
