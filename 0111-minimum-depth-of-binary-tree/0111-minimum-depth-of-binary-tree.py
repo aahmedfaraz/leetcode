@@ -9,9 +9,6 @@ class Solution:
         if not root: return 0
         if not root.left and not root.right:
             return 1
-        left, right = 0, 0
-        if root.left:
-            left = 1 + self.minDepth(root.left)
-        if root.right:
-            right = 1 + self.minDepth(root.right)
-        return min(left, right) if (left > 0 and right > 0) else max(left, right)
+        left = 1 + self.minDepth(root.left) if root.left else float('inf')
+        right = 1 + self.minDepth(root.right) if root.right else float('inf')
+        return min(left, right)
