@@ -244,6 +244,7 @@ This repo contains my leetcode practice
 | [0104-maximum-depth-of-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -252,6 +253,7 @@ This repo contains my leetcode practice
 | [0101-symmetric-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -261,12 +263,14 @@ This repo contains my leetcode practice
 | [0104-maximum-depth-of-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/aahmedfaraz/leetcode/tree/master/0322-coin-change) |
 ## Binary Search Tree
 |  |
