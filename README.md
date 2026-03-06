@@ -143,6 +143,7 @@ This repo contains my leetcode practice
 | [0027-remove-element](https://github.com/aahmedfaraz/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/aahmedfaraz/leetcode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/aahmedfaraz/leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -162,6 +163,7 @@ This repo contains my leetcode practice
 | [0068-text-justification](https://github.com/aahmedfaraz/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/aahmedfaraz/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/aahmedfaraz/leetcode/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0125-valid-palindrome) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aahmedfaraz/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aahmedfaraz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
