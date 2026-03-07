@@ -20,3 +20,6 @@ class Solution:
                 else:
                     right = mid - 1
         return -1
+
+# Time = O(log n)
+# Space = O(1)
