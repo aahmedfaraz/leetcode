@@ -7,10 +7,12 @@ class Solution:
     def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         if k <= 1: return head
 
+        # starting points
         dummy = ListNode(0, head)
         prevSeriesLastElement = dummy
         newSeriesFirstElement = dummy.next
 
+        # check next series is valid
         def checkRemaining(node, k):
             count = 0
             valid = True
@@ -18,10 +20,12 @@ class Solution:
                 count += 1
                 node = node.next
             return count == k
-            
 
+        # if next series is valid, keep moving
         while checkRemaining(newSeriesFirstElement, k):
             count = 0
+
+            # reverse the next series
             curr1 = newSeriesFirstElement
             curr2 = newSeriesFirstElement.next
             while count < (k-1):
@@ -37,7 +41,6 @@ class Solution:
             newSeriesFirstElement = curr2
         
         return dummy.next
-                
-            
 
-        return dummt.next
+# Time = O(n)
+# Space = O(1)
