@@ -107,6 +107,7 @@ This repo contains my leetcode practice
 | [0012-integer-to-roman](https://github.com/aahmedfaraz/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aahmedfaraz/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aahmedfaraz/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aahmedfaraz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -117,6 +118,7 @@ This repo contains my leetcode practice
 | [0024-swap-nodes-in-pairs](https://github.com/aahmedfaraz/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aahmedfaraz/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aahmedfaraz/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
 |  |
@@ -147,6 +149,7 @@ This repo contains my leetcode practice
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/aahmedfaraz/leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/aahmedfaraz/leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
