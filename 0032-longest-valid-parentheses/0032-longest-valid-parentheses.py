@@ -2,29 +2,16 @@ import math
 
 class Solution:
     def longestValidParentheses(self, s: str) -> int:
-        open_bracket, close_bracket, max_val = 0, 0, 0
-        for char in s:
-            if char == '(':
-                open_bracket += 1
+        stack = [-1]
+        maxval = 0
+        for i in range(len(s)):
+            if s[i] == '(':
+                stack.append(i)
             else:
-                close_bracket += 1
-            
-            if open_bracket == close_bracket:
-                max_val = max(max_val, open_bracket * 2)
-            elif close_bracket > open_bracket:
-                open_bracket, close_bracket = 0, 0
-        
-        open_bracket, close_bracket = 0, 0                
-        for char in s[::-1]:
-            if char == ')':
-                open_bracket += 1
-            else:
-                close_bracket += 1
-            
-            if open_bracket == close_bracket:
-                max_val = max(max_val, open_bracket * 2)
-            elif close_bracket > open_bracket:
-                open_bracket, close_bracket = 0, 0
-        
-        return max_val
-
+                if stack:
+                    stack.pop()
+                if not stack:
+                    stack.append(i)
+                else:
+                    maxval = max(maxval, i - stack[len(stack)-1])
+        return maxval
