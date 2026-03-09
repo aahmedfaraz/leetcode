@@ -8,10 +8,12 @@ class Solution:
             if s[i] == '(':
                 stack.append(i)
             else:
-                if stack:
-                    stack.pop()
+                stack.pop()
                 if not stack:
                     stack.append(i)
                 else:
                     maxval = max(maxval, i - stack[len(stack)-1])
         return maxval
+
+# Time = O(n)
+# Space = O(n)
