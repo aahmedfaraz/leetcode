@@ -17,6 +17,7 @@ This repo contains my leetcode practice
 | [0027-remove-element](https://github.com/aahmedfaraz/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aahmedfaraz/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aahmedfaraz/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aahmedfaraz/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aahmedfaraz/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/aahmedfaraz/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/aahmedfaraz/leetcode/tree/master/0068-text-justification) |
@@ -55,6 +56,7 @@ This repo contains my leetcode practice
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aahmedfaraz/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aahmedfaraz/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aahmedfaraz/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aahmedfaraz/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aahmedfaraz/leetcode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/aahmedfaraz/leetcode/tree/master/0704-binary-search) |
