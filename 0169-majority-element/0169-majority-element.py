@@ -1,19 +1,19 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         nums.sort()
-        maxcount = 0
+        i, n = 0, len(nums)
         maxval = 0
-        curr = nums[0]
-        count = 0
-        for num in nums:
-            if num == curr:
-                count += 1
-            else:
-                if count >= maxcount:
-                    maxcount = count
-                    maxval = curr
-                curr = num
-                count = 1
-        if count > maxcount:
-            return curr
+        maxcount = 0
+        while i < n:
+            curr = nums[i]
+            start = i
+            while i < n and nums[i] == curr:
+                i += 1
+            distance = i - start
+            if distance > maxcount:
+                maxcount = distance
+                maxval = curr
         return maxval
+
+# time = O(n) + O(n log n) = O(n log n) - two while loops, but traveling each element just one time
+# space = O(1)
