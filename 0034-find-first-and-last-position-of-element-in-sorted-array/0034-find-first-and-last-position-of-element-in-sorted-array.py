@@ -26,3 +26,6 @@ class Solution:
             return ans
         
         return [dncFirst(), dncLast()]
+
+# Time = O(log n) + O(log n) = O(log n)
+# Space = O(1)
