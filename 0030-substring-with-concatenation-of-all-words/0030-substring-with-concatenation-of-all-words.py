@@ -32,3 +32,8 @@ class Solution:
                 start += wordSize
 
         return res
+
+# If, n = string size, k = total words, m = each word size, winSize = k * m, then
+
+# Time = O(n * k * m)
+# Space = O(k)
