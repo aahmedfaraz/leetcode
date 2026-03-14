@@ -70,6 +70,7 @@ This repo contains my leetcode practice
 | [0067-add-binary](https://github.com/aahmedfaraz/leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/aahmedfaraz/leetcode/tree/master/0401-binary-watch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aahmedfaraz/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/aahmedfaraz/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -199,6 +200,7 @@ This repo contains my leetcode practice
 | [0119-pascals-triangle-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aahmedfaraz/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/aahmedfaraz/leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0338-counting-bits) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Math
 |  |
