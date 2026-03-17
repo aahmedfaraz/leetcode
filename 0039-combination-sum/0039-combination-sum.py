@@ -1,7 +1,6 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         combinations = []
-
         def dfs(prev, prevSum, remaining):
             nonlocal combinations
             if prevSum == target:
@@ -14,5 +13,8 @@ class Solution:
                 dfs(prev+[num], prevSum + num, remaining[i:])
         
         dfs([], 0, candidates)
-        
-        return combinations                
+        return combinations
+
+# let target: T, Total candidates: n, Smallest candidate = M
+# Time = O(n^T/M)
+# Space = O(T/M), recursion depth
