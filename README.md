@@ -188,6 +188,7 @@ This repo contains my leetcode practice
 | [0125-valid-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/aahmedfaraz/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aahmedfaraz/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aahmedfaraz/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aahmedfaraz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -268,6 +269,7 @@ This repo contains my leetcode practice
 | [0022-generate-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aahmedfaraz/leetcode/tree/master/0046-permutations) |
+| [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/aahmedfaraz/leetcode/tree/master/0401-binary-watch) |
 ## String Matching
 |  |
@@ -294,6 +296,7 @@ This repo contains my leetcode practice
 | [0112-path-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -306,6 +309,7 @@ This repo contains my leetcode practice
 | [0112-path-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -319,6 +323,7 @@ This repo contains my leetcode practice
 | [0112-path-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
