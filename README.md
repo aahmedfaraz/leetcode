@@ -182,6 +182,7 @@ This repo contains my leetcode practice
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aahmedfaraz/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/aahmedfaraz/leetcode/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/aahmedfaraz/leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/aahmedfaraz/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aahmedfaraz/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aahmedfaraz/leetcode/tree/master/0068-text-justification) |
@@ -202,6 +203,7 @@ This repo contains my leetcode practice
 | [0010-regular-expression-matching](https://github.com/aahmedfaraz/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/aahmedfaraz/leetcode/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/aahmedfaraz/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aahmedfaraz/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/aahmedfaraz/leetcode/tree/master/0118-pascals-triangle) |
@@ -231,6 +233,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aahmedfaraz/leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/aahmedfaraz/leetcode/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0409-longest-palindrome) |
 ## Stack
 |  |
@@ -268,6 +271,7 @@ This repo contains my leetcode practice
 | [0021-merge-two-sorted-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/aahmedfaraz/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aahmedfaraz/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/aahmedfaraz/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/aahmedfaraz/leetcode/tree/master/0050-powx-n) |
 ## Backtracking
 |  |
