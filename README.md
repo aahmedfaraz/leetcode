@@ -230,6 +230,7 @@ This repo contains my leetcode practice
 | [0171-excel-sheet-column-number](https://github.com/aahmedfaraz/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/aahmedfaraz/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/aahmedfaraz/leetcode/tree/master/0326-power-of-three) |
+| [0507-perfect-number](https://github.com/aahmedfaraz/leetcode/tree/master/0507-perfect-number) |
 | [1518-water-bottles](https://github.com/aahmedfaraz/leetcode/tree/master/1518-water-bottles) |
 ## Greedy
 |  |
