@@ -19,3 +19,6 @@ class Solution:
                     dp[i][j] = dp[i][j-1] or dp[i-1][j]
         
         return dp[n][m]
+
+# Time = O(n x m)
+# Space = O(n x m), DP Matrix
