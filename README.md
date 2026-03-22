@@ -76,6 +76,7 @@ This repo contains my leetcode practice
 | [0191-number-of-1-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/aahmedfaraz/leetcode/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/aahmedfaraz/leetcode/tree/master/0461-hamming-distance) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aahmedfaraz/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/aahmedfaraz/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
