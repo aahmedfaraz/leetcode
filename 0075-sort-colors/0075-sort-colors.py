@@ -1,41 +1,30 @@
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
         n = len(nums)
-        i, j = 0, n - 1
+        i, j, k = 0, n-1, 0
+
+        # place i and j to correct positions
         while i < n and nums[i] == 0:
             i += 1
         while j > -1 and nums[j] == 2:
             j -= 1
         
-        while i < j:
-            if nums[i] == 2:
-                nums[i], nums[j] = nums[j], nums[i]
+        k = i
+        
+        # use k to traverse whole array and swap accordingly
+        while i < j and k <= j:
+            if nums[k] == 0:
+                nums[k], nums[i] = nums[i], nums[k]
+                i += 1
+                while i < n and nums[i] == 0:
+                    i += 1
+            elif nums[k] == 2:
+                nums[k], nums[j] = nums[j], nums[k]
                 j -= 1
                 while j > -1 and nums[j] == 2:
                     j -= 1
                 while i < n and nums[i] == 0:
                     i += 1
-            elif nums[j] == 0:
-                nums[i], nums[j] = nums[j], nums[i]
-                i += 1
-                while i < n and nums[i] == 0:
-                    i += 1
-            else:
                 k = i
-                foundRequired = False
-                while k <= j:
-                    if nums[k] == 0:
-                        foundRequired = True
-                        nums[i], nums[k] = nums[k], nums[i]
-                        i += 1
-                        while i < n and nums[i] == 0:
-                            i += 1
-                    elif nums[k] == 2:
-                        foundRequired = True
-                        nums[j], nums[k] = nums[k], nums[j]
-                        j -= 1
-                        while j > -1 and nums[j] == 2:
-                            j -= 1
-                    k += 1
-                if not foundRequired:
-                    break
+            else:
+                k += 1
