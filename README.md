@@ -141,6 +141,7 @@ This repo contains my leetcode practice
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aahmedfaraz/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/aahmedfaraz/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aahmedfaraz/leetcode/tree/master/0068-text-justification) |
 | [1518-water-bottles](https://github.com/aahmedfaraz/leetcode/tree/master/1518-water-bottles) |
@@ -186,6 +187,7 @@ This repo contains my leetcode practice
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aahmedfaraz/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/aahmedfaraz/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/aahmedfaraz/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/aahmedfaraz/leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/aahmedfaraz/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aahmedfaraz/leetcode/tree/master/0067-add-binary) |
@@ -223,6 +225,7 @@ This repo contains my leetcode practice
 | [0012-integer-to-roman](https://github.com/aahmedfaraz/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aahmedfaraz/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/aahmedfaraz/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/aahmedfaraz/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aahmedfaraz/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aahmedfaraz/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aahmedfaraz/leetcode/tree/master/0066-plus-one) |
