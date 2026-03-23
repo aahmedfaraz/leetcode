@@ -25,6 +25,7 @@ This repo contains my leetcode practice
 | [0048-rotate-image](https://github.com/aahmedfaraz/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aahmedfaraz/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/aahmedfaraz/leetcode/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/aahmedfaraz/leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/aahmedfaraz/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -86,6 +87,7 @@ This repo contains my leetcode practice
 | [0015-3sum](https://github.com/aahmedfaraz/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aahmedfaraz/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aahmedfaraz/leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/aahmedfaraz/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [1200-minimum-absolute-difference](https://github.com/aahmedfaraz/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aahmedfaraz/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -164,6 +166,7 @@ This repo contains my leetcode practice
 | [0027-remove-element](https://github.com/aahmedfaraz/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/aahmedfaraz/leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/aahmedfaraz/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/aahmedfaraz/leetcode/tree/master/0283-move-zeroes) |
