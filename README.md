@@ -23,6 +23,7 @@ This repo contains my leetcode practice
 | [0040-combination-sum-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aahmedfaraz/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/aahmedfaraz/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/aahmedfaraz/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/aahmedfaraz/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/aahmedfaraz/leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/aahmedfaraz/leetcode/tree/master/0075-sort-colors) |
@@ -210,6 +211,7 @@ This repo contains my leetcode practice
 | [0022-generate-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/aahmedfaraz/leetcode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/aahmedfaraz/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/aahmedfaraz/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aahmedfaraz/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/aahmedfaraz/leetcode/tree/master/0118-pascals-triangle) |
@@ -269,6 +271,7 @@ This repo contains my leetcode practice
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aahmedfaraz/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/aahmedfaraz/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0190-reverse-bits) |
