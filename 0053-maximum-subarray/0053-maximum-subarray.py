@@ -9,3 +9,6 @@ class Solution:
                 currsum = 0
         
         return maxsum
+
+# Time = O(n)
+# Space = O(1)
