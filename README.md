@@ -21,6 +21,7 @@ This repo contains my leetcode practice
 | [0035-search-insert-position](https://github.com/aahmedfaraz/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/aahmedfaraz/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/aahmedfaraz/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/aahmedfaraz/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aahmedfaraz/leetcode/tree/master/0053-maximum-subarray) |
@@ -124,6 +125,7 @@ This repo contains my leetcode practice
 | [0013-roman-to-integer](https://github.com/aahmedfaraz/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aahmedfaraz/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aahmedfaraz/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/aahmedfaraz/leetcode/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0409-longest-palindrome) |
