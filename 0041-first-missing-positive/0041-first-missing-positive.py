@@ -22,3 +22,6 @@ class Solution:
                 return num
         
         return len(nums) + 1
+
+# Time = O(3.n) = O(n)
+# Space = O(1), no extra space, used same input array
