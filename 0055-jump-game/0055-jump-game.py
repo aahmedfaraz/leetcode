@@ -9,3 +9,6 @@ class Solution:
             max_reach = max(max_reach, pos + nums[pos])
         
         return True
+
+# Time = O(n)
+# Space = O(1)
