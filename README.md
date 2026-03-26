@@ -25,6 +25,7 @@ This repo contains my leetcode practice
 | [0046-permutations](https://github.com/aahmedfaraz/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/aahmedfaraz/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aahmedfaraz/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aahmedfaraz/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/aahmedfaraz/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/aahmedfaraz/leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/aahmedfaraz/leetcode/tree/master/0075-sort-colors) |
@@ -222,6 +223,7 @@ This repo contains my leetcode practice
 | [0032-longest-valid-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/aahmedfaraz/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/aahmedfaraz/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aahmedfaraz/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/aahmedfaraz/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aahmedfaraz/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/aahmedfaraz/leetcode/tree/master/0118-pascals-triangle) |
@@ -257,6 +259,7 @@ This repo contains my leetcode practice
 | ------- |
 | [0011-container-with-most-water](https://github.com/aahmedfaraz/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/aahmedfaraz/leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/aahmedfaraz/leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0409-longest-palindrome) |
 ## Stack
 |  |
