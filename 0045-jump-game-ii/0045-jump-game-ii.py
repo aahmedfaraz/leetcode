@@ -1,17 +1,18 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
         n = len(nums)
-        memo = {}
-        def dfs(i):
-            # print('start', i)
-            if i in memo: return memo[i]
-            if i == (n-1): return 0
-            if i >= n: return 0
-            mincost = float('inf')
-            for pos in range(i+1, i+nums[i]+1):
-                if pos < n:
-                    mincost = min(mincost, 1 + dfs(pos))
-            memo[i] = mincost
-            # print('solved', i, ', cost', memo[i])
-            return mincost
-        return dfs(0)
+
+        end = 0
+        jumps = 0
+        reach = 0
+
+        for i in range(len(nums)-1):
+            reach = max(reach, i + nums[i])
+            if i == end:
+                jumps += 1
+                end = reach
+        
+        return jumps
+
+# Time = O(n)
+# Space = O(1)
