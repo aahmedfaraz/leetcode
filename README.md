@@ -82,6 +82,7 @@ This repo contains my leetcode practice
 | [0029-divide-two-integers](https://github.com/aahmedfaraz/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/aahmedfaraz/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/aahmedfaraz/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/aahmedfaraz/leetcode/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
@@ -252,6 +253,7 @@ This repo contains my leetcode practice
 | [0067-add-binary](https://github.com/aahmedfaraz/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aahmedfaraz/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aahmedfaraz/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/aahmedfaraz/leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/aahmedfaraz/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aahmedfaraz/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0258-add-digits) |
@@ -317,6 +319,7 @@ This repo contains my leetcode practice
 | [0040-combination-sum-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aahmedfaraz/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aahmedfaraz/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/aahmedfaraz/leetcode/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/aahmedfaraz/leetcode/tree/master/0401-binary-watch) |
 ## String Matching
