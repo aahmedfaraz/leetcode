@@ -3,7 +3,8 @@ class Solution:
         res = [0]
         
         for i in range(n):
-            for x in reversed(res):
-                res.append(x | (1 << i))
+            prefix = 1 << i
+            for num in reversed(res):
+                res.append(prefix | num)
         
         return res
