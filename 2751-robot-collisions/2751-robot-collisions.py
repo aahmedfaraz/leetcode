@@ -34,3 +34,6 @@ class Solution:
         survivors.sort()
 
         return [h for _, h in survivors]
+
+# Time = O(n log n)
+# Space = O(n)
