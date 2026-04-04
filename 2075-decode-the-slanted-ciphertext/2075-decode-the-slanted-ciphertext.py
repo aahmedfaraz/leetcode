@@ -12,3 +12,5 @@ class Solution:
                     spaces = 0
                 col += (cols + 1)
         return originalText
+# Time = O(n)
+# Space = O(n)
