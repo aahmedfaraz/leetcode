@@ -1,16 +1,16 @@
 class Solution:
     def decodeCiphertext(self, encodedText: str, rows: int) -> str:
+        if not encodedText:
+            return ""
+
         cols = len(encodedText) // rows
-        originalText = ""
-        spaces = 0
-        for col in range(cols):
-            while col < len(encodedText):
-                if encodedText[col] == " ":
-                    spaces += 1
-                else:
-                    originalText += f'{' '*spaces}{encodedText[col]}'
-                    spaces = 0
-                col += (cols + 1)
-        return originalText
-# Time = O(n)
-# Space = O(n)
+        result = []
+
+        for start_col in range(cols):
+            r, c = 0, start_col
+            while r < rows and c < cols:
+                result.append(encodedText[r * cols + c])
+                r += 1
+                c += 1
+
+        return "".join(result).rstrip()
