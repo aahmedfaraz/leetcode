@@ -4,11 +4,9 @@ class Solution:
         rows, cols = len(mat), len(mat[0])
         k %= cols
 
-        new = copy.deepcopy(mat)
+        new = []
 
-        for i in range(k):
-            for row in range(rows):
-                removed = new[row].pop(0)
-                new[row].append(removed)
+        for row in range(rows):
+            new.append(mat[row][k:] + mat[row][:k])
 
         return new == mat
