@@ -52,6 +52,7 @@ This repo contains my leetcode practice
 | [1929-concatenation-of-array](https://github.com/aahmedfaraz/leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aahmedfaraz/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2751-robot-collisions](https://github.com/aahmedfaraz/leetcode/tree/master/2751-robot-collisions) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aahmedfaraz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aahmedfaraz/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/aahmedfaraz/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -67,6 +68,7 @@ This repo contains my leetcode practice
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aahmedfaraz/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/aahmedfaraz/leetcode/tree/master/1895-largest-magic-square) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aahmedfaraz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aahmedfaraz/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aahmedfaraz/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
@@ -183,6 +185,7 @@ This repo contains my leetcode practice
 | [1929-concatenation-of-array](https://github.com/aahmedfaraz/leetcode/tree/master/1929-concatenation-of-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/aahmedfaraz/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/aahmedfaraz/leetcode/tree/master/2751-robot-collisions) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aahmedfaraz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
@@ -289,6 +292,7 @@ This repo contains my leetcode practice
 | [0326-power-of-three](https://github.com/aahmedfaraz/leetcode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/aahmedfaraz/leetcode/tree/master/0507-perfect-number) |
 | [1518-water-bottles](https://github.com/aahmedfaraz/leetcode/tree/master/1518-water-bottles) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aahmedfaraz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
 | ------- |
