@@ -43,6 +43,7 @@ This repo contains my leetcode practice
 | [0495-teemo-attacking](https://github.com/aahmedfaraz/leetcode/tree/master/0495-teemo-attacking) |
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/aahmedfaraz/leetcode/tree/master/0704-binary-search) |
+| [0874-walking-robot-simulation](https://github.com/aahmedfaraz/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1200-minimum-absolute-difference](https://github.com/aahmedfaraz/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aahmedfaraz/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -160,6 +161,7 @@ This repo contains my leetcode practice
 | [0389-find-the-difference](https://github.com/aahmedfaraz/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
+| [0874-walking-robot-simulation](https://github.com/aahmedfaraz/leetcode/tree/master/0874-walking-robot-simulation) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aahmedfaraz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -181,6 +183,7 @@ This repo contains my leetcode practice
 | [0258-add-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/aahmedfaraz/leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/aahmedfaraz/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/aahmedfaraz/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1518-water-bottles](https://github.com/aahmedfaraz/leetcode/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/aahmedfaraz/leetcode/tree/master/1929-concatenation-of-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/aahmedfaraz/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
