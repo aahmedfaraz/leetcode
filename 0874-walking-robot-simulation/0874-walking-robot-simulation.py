@@ -20,8 +20,3 @@ class Solution:
                     max_dist = max(max_dist, x*x + y*y)
 
         return max_dist
-
-# n = number of commands
-# k = number of obstacles
-# Time = O(n+k)
-# Space = O(k)
