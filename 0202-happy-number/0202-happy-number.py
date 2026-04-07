@@ -13,4 +13,4 @@ class Solution:
                 res += int(num)**2
             n = res
 # Time: O(log n)
-# Space: O(n)
+# Space: O(1)
