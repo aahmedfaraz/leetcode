@@ -12,3 +12,5 @@ class Solution:
             for num in nums:
                 res += int(num)**2
             n = res
+# Time: O(log n)
+# Space: O(n)
