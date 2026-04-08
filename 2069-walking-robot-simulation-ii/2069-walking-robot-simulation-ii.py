@@ -27,3 +27,6 @@ class Robot:
         if self.x == 0 and self.y == 0 and not self.moved: return "East"
         if self.x == 0 and self.y == 0 and self.moved: return "South" # Special case
         return self.dir
+
+# Time = O(1)
+# Space = O(1)
