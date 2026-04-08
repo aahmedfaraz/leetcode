@@ -7,5 +7,5 @@ class Solution:
                 idx += k
         res = 0
         for num in nums:
-            res ^= int(num)
+            res ^= num
         return res
