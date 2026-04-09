@@ -1,25 +1,23 @@
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
-        nums.sort()
-        res = []
-        used = [False] * len(nums)
+        nums.sort()  # important for duplicate handling
         
-        def dfs(path):
-            if len(path) == len(nums):
-                res.append(path[:])
-                return
+        def dfs(prev, remaining):
+            if not remaining:
+                return [prev]
             
-            for i in range(len(nums)):
-                if used[i]:
+            permutations = []
+            used = set()  # avoid duplicates at this level
+            
+            for i, num in enumerate(remaining):
+                if num in used:
                     continue
+                used.add(num)
                 
-                # skip duplicates
-                if i > 0 and nums[i] == nums[i-1] and not used[i-1]:
-                    continue
-                
-                used[i] = True
-                dfs(path + [nums[i]])
-                used[i] = False
+                permutations.extend(
+                    dfs(prev + [num], remaining[:i] + remaining[i+1:])
+                )
+            
+            return permutations
         
-        dfs([])
-        return res
+        return dfs([], nums)
