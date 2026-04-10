@@ -5,7 +5,10 @@ class Solution:
         groups = defaultdict(list)
 
         for s in strs:
-            key = tuple(sorted(s))
+            count = [0] * 26
+            for ch in s:
+                count[ord(ch) - ord('a')] += 1
+            key = tuple(count)
             groups[key].append(s)
         
         return list(groups.values())
