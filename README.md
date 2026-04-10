@@ -27,6 +27,7 @@ This repo contains my leetcode practice
 | [0046-permutations](https://github.com/aahmedfaraz/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aahmedfaraz/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/aahmedfaraz/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aahmedfaraz/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aahmedfaraz/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/aahmedfaraz/leetcode/tree/master/0066-plus-one) |
@@ -118,6 +119,7 @@ This repo contains my leetcode practice
 | [0016-3sum-closest](https://github.com/aahmedfaraz/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aahmedfaraz/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/aahmedfaraz/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/aahmedfaraz/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
@@ -161,6 +163,7 @@ This repo contains my leetcode practice
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aahmedfaraz/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/aahmedfaraz/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/aahmedfaraz/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/aahmedfaraz/leetcode/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aahmedfaraz/leetcode/tree/master/0202-happy-number) |
@@ -243,6 +246,7 @@ This repo contains my leetcode practice
 | [0038-count-and-say](https://github.com/aahmedfaraz/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/aahmedfaraz/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/aahmedfaraz/leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/aahmedfaraz/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/aahmedfaraz/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aahmedfaraz/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aahmedfaraz/leetcode/tree/master/0068-text-justification) |
