@@ -12,3 +12,8 @@ class Solution:
             groups[key].append(s)
         
         return list(groups.values())
+
+# Time = O(nk)
+# Space = O(nk)
+
+# where n: number of strings, k = length of largest string
