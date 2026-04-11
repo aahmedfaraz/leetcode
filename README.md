@@ -30,6 +30,7 @@ This repo contains my leetcode practice
 | [0049-group-anagrams](https://github.com/aahmedfaraz/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aahmedfaraz/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aahmedfaraz/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/aahmedfaraz/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/aahmedfaraz/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/aahmedfaraz/leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/aahmedfaraz/leetcode/tree/master/0075-sort-colors) |
@@ -120,6 +121,7 @@ This repo contains my leetcode practice
 | [0018-4sum](https://github.com/aahmedfaraz/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/aahmedfaraz/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/aahmedfaraz/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aahmedfaraz/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
