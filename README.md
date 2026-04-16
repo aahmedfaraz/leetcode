@@ -32,6 +32,7 @@ This repo contains my leetcode practice
 | [0055-jump-game](https://github.com/aahmedfaraz/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aahmedfaraz/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aahmedfaraz/leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/aahmedfaraz/leetcode/tree/master/0066-plus-one) |
@@ -75,6 +76,7 @@ This repo contains my leetcode practice
 | ------- |
 | [0036-valid-sudoku](https://github.com/aahmedfaraz/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/aahmedfaraz/leetcode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0064-minimum-path-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -201,6 +203,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aahmedfaraz/leetcode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/aahmedfaraz/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aahmedfaraz/leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0258-add-digits) |
