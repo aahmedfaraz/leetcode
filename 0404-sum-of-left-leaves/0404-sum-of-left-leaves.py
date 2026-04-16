@@ -6,20 +6,17 @@
 #         self.right = right
 class Solution:
     def sumOfLeftLeaves(self, root: Optional[TreeNode]) -> int:
-        summ = 0
-        def dfs(node, direction):
-            nonlocal summ
+        def dfs(node, direction, summ):
             if not node.left and not node.right:
                 if direction == 'left':
                     summ += node.val
-                return
-            
+                return summ
+            new_sum = 0
             if node.left:
-                dfs(node.left, 'left')
+                new_sum += dfs(node.left, 'left', summ)
             if node.right:
-                dfs(node.right, 'right')
-        
-        dfs(root, 'root')
+                new_sum += dfs(node.right, 'right', summ)
 
-        return summ
-            
+            return new_sum
+        
+        return dfs(root, 'root', 0)
