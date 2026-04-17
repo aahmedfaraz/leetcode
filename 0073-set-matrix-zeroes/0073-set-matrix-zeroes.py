@@ -21,5 +21,5 @@ class Solution:
                     if col in colsZ:
                         matrix[row][col] = 0               
                 
-
-        
+# Time = O(n^2)
+# Space = O(1) - In-place
