@@ -16,4 +16,5 @@ class Solution:
         
         return sum(stack)
 
-            
+# Time = O(n)
+# Space = O(n)  
