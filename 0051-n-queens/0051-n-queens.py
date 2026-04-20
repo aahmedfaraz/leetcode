@@ -1,14 +1,18 @@
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
-        board = [(['.']*n) for _ in range(n)]
-        valids = []
         res = []
 
-        def dfs(board, queens):
+        def dfs(queens):
             nonlocal res
             # If all queens are filled
             if len(queens) == n:
-                print(board)
+                board = [(['.']*n) for _ in range(n)]
+                for row in range(n):
+                    for col in range(n):
+                        if (row, col) in queens:
+                            board[row][col] = 'Q'
+                        else:
+                            board[row][col] = '.'
                 res.append([''.join(row[:]) for row in board])
                 return
             
@@ -24,16 +28,14 @@ class Solution:
                         break
                 if position_is_safe:
                     # add new values
-                    board[row][col] = 'Q'
                     queens.add((row, col))
 
                     # runs dfs
-                    dfs(board, queens)
+                    dfs(queens)
 
                     # reset values
-                    board[row][col] = '.'
                     queens.remove((row, col))
         
-        dfs(board, set())
+        dfs(set())
 
         return res
