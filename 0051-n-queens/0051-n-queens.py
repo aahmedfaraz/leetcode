@@ -13,7 +13,7 @@ class Solution:
                             board[row][col] = 'Q'
                         else:
                             board[row][col] = '.'
-                res.append([''.join(row[:]) for row in board])
+                res.append([''.join(row) for row in board])
                 return
             
             # Fill new queen
