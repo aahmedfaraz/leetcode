@@ -44,6 +44,7 @@ This repo contains my leetcode practice
 | [0075-sort-colors](https://github.com/aahmedfaraz/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aahmedfaraz/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aahmedfaraz/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/aahmedfaraz/leetcode/tree/master/0118-pascals-triangle) |
@@ -371,6 +372,7 @@ This repo contains my leetcode practice
 | [0032-longest-valid-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aahmedfaraz/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/aahmedfaraz/leetcode/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aahmedfaraz/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -526,4 +528,5 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aahmedfaraz/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aahmedfaraz/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
