@@ -59,6 +59,7 @@ This repo contains my leetcode practice
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/aahmedfaraz/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/aahmedfaraz/leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/aahmedfaraz/leetcode/tree/master/0705-design-hashset) |
 | [0874-walking-robot-simulation](https://github.com/aahmedfaraz/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1200-minimum-absolute-difference](https://github.com/aahmedfaraz/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -201,6 +202,7 @@ This repo contains my leetcode practice
 | [0389-find-the-difference](https://github.com/aahmedfaraz/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/aahmedfaraz/leetcode/tree/master/0705-design-hashset) |
 | [0874-walking-robot-simulation](https://github.com/aahmedfaraz/leetcode/tree/master/0874-walking-robot-simulation) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aahmedfaraz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -214,6 +216,7 @@ This repo contains my leetcode practice
 | [0061-rotate-list](https://github.com/aahmedfaraz/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aahmedfaraz/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0705-design-hashset](https://github.com/aahmedfaraz/leetcode/tree/master/0705-design-hashset) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
 |  |
@@ -515,6 +518,7 @@ This repo contains my leetcode practice
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/aahmedfaraz/leetcode/tree/master/0705-design-hashset) |
 | [2069-walking-robot-simulation-ii](https://github.com/aahmedfaraz/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Combinatorics
 |  |
@@ -529,4 +533,8 @@ This repo contains my leetcode practice
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aahmedfaraz/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aahmedfaraz/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/aahmedfaraz/leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
