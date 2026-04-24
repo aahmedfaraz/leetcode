@@ -10,7 +10,6 @@ class Solution:
             row = mid // cols
 
             val = matrix[row][col]
-            print(l, r, mid, val)
 
             if val == target:
                 return True
@@ -21,3 +20,6 @@ class Solution:
                 r = mid - 1
         
         return False
+
+# Time = O(log n)
+# Space = O(1)
