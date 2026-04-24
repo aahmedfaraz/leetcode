@@ -44,6 +44,7 @@ This repo contains my leetcode practice
 | [0074-search-a-2d-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aahmedfaraz/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aahmedfaraz/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aahmedfaraz/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aahmedfaraz/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0090-subsets-ii) |
@@ -92,6 +93,7 @@ This repo contains my leetcode practice
 | [0064-minimum-path-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aahmedfaraz/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/aahmedfaraz/leetcode/tree/master/0079-word-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aahmedfaraz/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/aahmedfaraz/leetcode/tree/master/1895-largest-magic-square) |
@@ -296,6 +298,7 @@ This repo contains my leetcode practice
 | [0071-simplify-path](https://github.com/aahmedfaraz/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/aahmedfaraz/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/aahmedfaraz/leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/aahmedfaraz/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/aahmedfaraz/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/aahmedfaraz/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -434,6 +437,7 @@ This repo contains my leetcode practice
 | [0052-n-queens-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/aahmedfaraz/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/aahmedfaraz/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aahmedfaraz/leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/aahmedfaraz/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
@@ -468,6 +472,7 @@ This repo contains my leetcode practice
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aahmedfaraz/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0101-symmetric-tree) |
