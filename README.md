@@ -272,6 +272,7 @@ This repo contains my leetcode practice
 | [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/aahmedfaraz/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/aahmedfaraz/leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/aahmedfaraz/leetcode/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/aahmedfaraz/leetcode/tree/master/0696-count-binary-substrings) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aahmedfaraz/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
@@ -310,6 +311,7 @@ This repo contains my leetcode practice
 | [0290-word-pattern](https://github.com/aahmedfaraz/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/aahmedfaraz/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/aahmedfaraz/leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/aahmedfaraz/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0409-longest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/aahmedfaraz/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/aahmedfaraz/leetcode/tree/master/0696-count-binary-substrings) |
@@ -340,6 +342,7 @@ This repo contains my leetcode practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aahmedfaraz/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/aahmedfaraz/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/aahmedfaraz/leetcode/tree/master/0392-is-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aahmedfaraz/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/aahmedfaraz/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
