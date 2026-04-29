@@ -274,6 +274,7 @@ This repo contains my leetcode practice
 | [0283-move-zeroes](https://github.com/aahmedfaraz/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aahmedfaraz/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/aahmedfaraz/leetcode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0541-reverse-string-ii) |
 | [0696-count-binary-substrings](https://github.com/aahmedfaraz/leetcode/tree/master/0696-count-binary-substrings) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aahmedfaraz/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
@@ -315,6 +316,7 @@ This repo contains my leetcode practice
 | [0389-find-the-difference](https://github.com/aahmedfaraz/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aahmedfaraz/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0409-longest-palindrome) |
+| [0541-reverse-string-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/aahmedfaraz/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/aahmedfaraz/leetcode/tree/master/0696-count-binary-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
