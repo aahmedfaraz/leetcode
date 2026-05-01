@@ -14,3 +14,6 @@ class Solution:
             max_val = max(max_val, F)
         
         return max_val
+
+# Time = O(n)
+# Space = O(1)
