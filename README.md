@@ -57,6 +57,7 @@ This repo contains my leetcode practice
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aahmedfaraz/leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/aahmedfaraz/leetcode/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/aahmedfaraz/leetcode/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/aahmedfaraz/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/aahmedfaraz/leetcode/tree/master/0495-teemo-attacking) |
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
@@ -347,6 +348,7 @@ This repo contains my leetcode practice
 | [0322-coin-change](https://github.com/aahmedfaraz/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/aahmedfaraz/leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/aahmedfaraz/leetcode/tree/master/0396-rotate-function) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aahmedfaraz/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/aahmedfaraz/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -374,6 +376,7 @@ This repo contains my leetcode practice
 | [0263-ugly-number](https://github.com/aahmedfaraz/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/aahmedfaraz/leetcode/tree/master/0326-power-of-three) |
+| [0396-rotate-function](https://github.com/aahmedfaraz/leetcode/tree/master/0396-rotate-function) |
 | [0507-perfect-number](https://github.com/aahmedfaraz/leetcode/tree/master/0507-perfect-number) |
 | [1518-water-bottles](https://github.com/aahmedfaraz/leetcode/tree/master/1518-water-bottles) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aahmedfaraz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
