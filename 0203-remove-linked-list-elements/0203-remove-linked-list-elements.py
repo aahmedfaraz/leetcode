@@ -16,3 +16,5 @@ class Solution:
                 prev = curr
             curr = curr.next
         return dummy.next
+# Time = O(n)
+# Space = O(1)
