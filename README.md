@@ -226,6 +226,7 @@ This repo contains my leetcode practice
 | [0086-partition-list](https://github.com/aahmedfaraz/leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/aahmedfaraz/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/aahmedfaraz/leetcode/tree/master/0705-design-hashset) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
@@ -440,6 +441,7 @@ This repo contains my leetcode practice
 | [0044-wildcard-matching](https://github.com/aahmedfaraz/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/aahmedfaraz/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/aahmedfaraz/leetcode/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/aahmedfaraz/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/aahmedfaraz/leetcode/tree/master/0326-power-of-three) |
 ## Backtracking
 |  |
