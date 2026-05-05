@@ -48,6 +48,7 @@ This repo contains my leetcode practice
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aahmedfaraz/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/aahmedfaraz/leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/aahmedfaraz/leetcode/tree/master/0118-pascals-triangle) |
@@ -96,6 +97,7 @@ This repo contains my leetcode practice
 | [0073-set-matrix-zeroes](https://github.com/aahmedfaraz/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/aahmedfaraz/leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/aahmedfaraz/leetcode/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aahmedfaraz/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/aahmedfaraz/leetcode/tree/master/1895-largest-magic-square) |
@@ -348,6 +350,7 @@ This repo contains my leetcode practice
 | [0064-minimum-path-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aahmedfaraz/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aahmedfaraz/leetcode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/aahmedfaraz/leetcode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/aahmedfaraz/leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/aahmedfaraz/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -403,6 +406,7 @@ This repo contains my leetcode practice
 | [0042-trapping-rain-water](https://github.com/aahmedfaraz/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/aahmedfaraz/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aahmedfaraz/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/aahmedfaraz/leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -565,6 +569,7 @@ This repo contains my leetcode practice
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aahmedfaraz/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aahmedfaraz/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/aahmedfaraz/leetcode/tree/master/0085-maximal-rectangle) |
 ## Hash Function
 |  |
 | ------- |
