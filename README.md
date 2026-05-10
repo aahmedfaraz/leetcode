@@ -57,6 +57,7 @@ This repo contains my leetcode practice
 | [0120-triangle](https://github.com/aahmedfaraz/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aahmedfaraz/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/aahmedfaraz/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aahmedfaraz/leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/aahmedfaraz/leetcode/tree/master/0322-coin-change) |
@@ -157,6 +158,7 @@ This repo contains my leetcode practice
 | [0056-merge-intervals](https://github.com/aahmedfaraz/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aahmedfaraz/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/aahmedfaraz/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aahmedfaraz/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aahmedfaraz/leetcode/tree/master/0389-find-the-difference) |
@@ -207,6 +209,7 @@ This repo contains my leetcode practice
 | [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aahmedfaraz/leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/aahmedfaraz/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aahmedfaraz/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/aahmedfaraz/leetcode/tree/master/0290-word-pattern) |
