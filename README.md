@@ -429,6 +429,7 @@ This repo contains my leetcode practice
 | [0094-binary-tree-inorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/aahmedfaraz/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/aahmedfaraz/leetcode/tree/master/0682-baseball-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/aahmedfaraz/leetcode/tree/master/2751-robot-collisions) |
@@ -577,6 +578,7 @@ This repo contains my leetcode practice
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/aahmedfaraz/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/aahmedfaraz/leetcode/tree/master/0705-design-hashset) |
 | [2069-walking-robot-simulation-ii](https://github.com/aahmedfaraz/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Combinatorics
@@ -597,4 +599,8 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/aahmedfaraz/leetcode/tree/master/0705-design-hashset) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aahmedfaraz/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
