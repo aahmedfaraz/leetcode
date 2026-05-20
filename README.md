@@ -408,6 +408,7 @@ This repo contains my leetcode practice
 | [0258-add-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aahmedfaraz/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/aahmedfaraz/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/aahmedfaraz/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aahmedfaraz/leetcode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/aahmedfaraz/leetcode/tree/master/0396-rotate-function) |
@@ -621,4 +622,12 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aahmedfaraz/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aahmedfaraz/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aahmedfaraz/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
