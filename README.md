@@ -266,6 +266,7 @@ This repo contains my leetcode practice
 | [0067-add-binary](https://github.com/aahmedfaraz/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aahmedfaraz/leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/aahmedfaraz/leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/aahmedfaraz/leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/aahmedfaraz/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/aahmedfaraz/leetcode/tree/master/0682-baseball-game) |
@@ -358,6 +359,7 @@ This repo contains my leetcode practice
 | [0389-find-the-difference](https://github.com/aahmedfaraz/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aahmedfaraz/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/aahmedfaraz/leetcode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/aahmedfaraz/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/aahmedfaraz/leetcode/tree/master/0696-count-binary-substrings) |
@@ -424,6 +426,7 @@ This repo contains my leetcode practice
 | [0326-power-of-three](https://github.com/aahmedfaraz/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aahmedfaraz/leetcode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/aahmedfaraz/leetcode/tree/master/0396-rotate-function) |
+| [0412-fizz-buzz](https://github.com/aahmedfaraz/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/aahmedfaraz/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aahmedfaraz/leetcode/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/aahmedfaraz/leetcode/tree/master/1518-water-bottles) |
