@@ -7,7 +7,6 @@ class Solution:
             point1 = points[i]
             x1, y1 = point1[0], point1[1]
             slopes = {}
-            # print("point1", point1)
             for j in range(i+1, n):
                 point2 = points[j]
                 x2, y2 = point2[0], point2[1]
@@ -19,6 +18,6 @@ class Solution:
                 else:
                     slopes[slope] = 2
                 maxpoints = max(maxpoints, slopes[slope])
-                # print("-> point2", point2, " slopes ", slopes)
-            
         return maxpoints
+# Time = O(n^2)
+# Space = O(n)
