@@ -135,6 +135,7 @@ This repo contains my leetcode practice
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/aahmedfaraz/leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/aahmedfaraz/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/aahmedfaraz/leetcode/tree/master/0704-binary-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aahmedfaraz/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -434,6 +435,7 @@ This repo contains my leetcode practice
 | [0292-nim-game](https://github.com/aahmedfaraz/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/aahmedfaraz/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aahmedfaraz/leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/aahmedfaraz/leetcode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/aahmedfaraz/leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/aahmedfaraz/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/aahmedfaraz/leetcode/tree/master/0507-perfect-number) |
