@@ -15,3 +15,6 @@ class Solution:
             else:
                 left = mid+1
         return False
+
+# Time = O(log n)
+# Space = O(1)
