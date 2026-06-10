@@ -398,6 +398,7 @@ This repo contains my leetcode practice
 | [0072-edit-distance](https://github.com/aahmedfaraz/leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/aahmedfaraz/leetcode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/aahmedfaraz/leetcode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/aahmedfaraz/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/aahmedfaraz/leetcode/tree/master/0120-triangle) |
@@ -529,6 +530,7 @@ This repo contains my leetcode practice
 | [0089-gray-code](https://github.com/aahmedfaraz/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/aahmedfaraz/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/aahmedfaraz/leetcode/tree/master/0401-binary-watch) |
 ## String Matching
@@ -548,6 +550,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0100-same-tree) |
@@ -589,6 +592,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0100-same-tree) |
@@ -624,6 +628,7 @@ This repo contains my leetcode practice
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
