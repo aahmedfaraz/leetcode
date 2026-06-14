@@ -66,6 +66,7 @@ This repo contains my leetcode practice
 | [0322-coin-change](https://github.com/aahmedfaraz/leetcode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/aahmedfaraz/leetcode/tree/master/0396-rotate-function) |
+| [0414-third-maximum-number](https://github.com/aahmedfaraz/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/aahmedfaraz/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aahmedfaraz/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/aahmedfaraz/leetcode/tree/master/0495-teemo-attacking) |
@@ -179,6 +180,7 @@ This repo contains my leetcode practice
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/aahmedfaraz/leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/aahmedfaraz/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/aahmedfaraz/leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/aahmedfaraz/leetcode/tree/master/1200-minimum-absolute-difference) |
