@@ -15,3 +15,6 @@ class Solution:
                 t = num
         
         return t if t != INF else f
+
+# Time = O(n)
+# Space = O(1)
