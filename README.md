@@ -579,6 +579,7 @@ This repo contains my leetcode practice
 | [0222-count-complete-tree-nodes](https://github.com/aahmedfaraz/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/aahmedfaraz/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0563-binary-tree-tilt](https://github.com/aahmedfaraz/leetcode/tree/master/0563-binary-tree-tilt) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -598,6 +599,7 @@ This repo contains my leetcode practice
 | [0145-binary-tree-postorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/aahmedfaraz/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0563-binary-tree-tilt](https://github.com/aahmedfaraz/leetcode/tree/master/0563-binary-tree-tilt) |
 ## Binary Tree
 |  |
 | ------- |
@@ -621,6 +623,7 @@ This repo contains my leetcode practice
 | [0222-count-complete-tree-nodes](https://github.com/aahmedfaraz/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/aahmedfaraz/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0563-binary-tree-tilt](https://github.com/aahmedfaraz/leetcode/tree/master/0563-binary-tree-tilt) |
 ## Breadth-First Search
 |  |
 | ------- |
