@@ -56,6 +56,7 @@ This repo contains my leetcode practice
 | [0119-pascals-triangle-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/aahmedfaraz/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aahmedfaraz/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/aahmedfaraz/leetcode/tree/master/0134-gas-station) |
 | [0149-max-points-on-a-line](https://github.com/aahmedfaraz/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aahmedfaraz/leetcode/tree/master/0217-contains-duplicate) |
@@ -463,6 +464,7 @@ This repo contains my leetcode practice
 | [0044-wildcard-matching](https://github.com/aahmedfaraz/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aahmedfaraz/leetcode/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/aahmedfaraz/leetcode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/aahmedfaraz/leetcode/tree/master/0455-assign-cookies) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aahmedfaraz/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
