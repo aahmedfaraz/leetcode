@@ -1,3 +1,4 @@
+from collections import deque
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -6,26 +7,24 @@
 #         self.right = right
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
-        hero = []
         res = []
         if not root:
             return []
-        def dfs(root, summ):
-            nonlocal hero
-            hero.append(root.val)
-            summ += root.val
-            if not root.left and not root.right:
-                if summ == targetSum:
-                    res.append(hero.copy())
-            else:
-                if root.left:
-                    dfs(root.left, summ)
-                if root.right:
-                    dfs(root.right, summ)            
-            summ -= root.val
-            hero.pop()
-        
-        dfs(root, 0)
+        que = deque([(root, 0, [])])
 
+        while que:
+            node, summ, seq = que.popleft()
+            summ += node.val
+            seq.append(node.val)
+            if not node.left and not node.right:
+                if summ == targetSum:
+                    res.append(seq.copy())
+            else:
+                if node.left:
+                    que.append((node.left, summ, seq.copy()))
+                if node.right:
+                    que.append((node.right, summ, seq.copy()))
         return res
 
+# Time = O(n)
+# Space = O(n)
