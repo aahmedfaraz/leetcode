@@ -1,30 +1,30 @@
-from collections import deque
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
 class Solution:
-    def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
-        res = []
+    def pathSum(self, root, targetSum):
         if not root:
             return []
-        que = deque([(root, 0, [])])
 
-        while que:
-            node, summ, seq = que.popleft()
+        hero = []
+        res = []
+
+        def dfs(node, summ):
+            hero.append(node.val)
             summ += node.val
-            seq.append(node.val)
+
             if not node.left and not node.right:
                 if summ == targetSum:
-                    res.append(seq.copy())
+                    res.append(hero.copy())
             else:
                 if node.left:
-                    que.append((node.left, summ, seq.copy()))
+                    dfs(node.left, summ)
                 if node.right:
-                    que.append((node.right, summ, seq.copy()))
+                    dfs(node.right, summ)
+
+            hero.pop()
+
+        dfs(root, 0)
         return res
 
 # Time = O(n)
-# Space = O(n)
+# Space = O(h)
+
+# Where n is total nodes, and h is height of the tree
