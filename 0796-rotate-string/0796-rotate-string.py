@@ -1,6 +1,23 @@
 class Solution:
     def rotateString(self, s: str, goal: str) -> bool:
-        if len(s) != len(goal):
+        n = len(s)
+
+        if n != len(goal):
             return False
 
-        return goal in (s + s)
+        if s == goal:
+            return True
+
+        # try every possible starting index in s
+        for start in range(n):
+            matched = True
+
+            for i in range(n):
+                if s[(start + i) % n] != goal[i]:
+                    matched = False
+                    break
+
+            if matched:
+                return True
+
+        return False
