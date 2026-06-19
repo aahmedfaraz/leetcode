@@ -385,6 +385,7 @@ This repo contains my leetcode practice
 | [0657-robot-return-to-origin](https://github.com/aahmedfaraz/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/aahmedfaraz/leetcode/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/aahmedfaraz/leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/aahmedfaraz/leetcode/tree/master/0796-rotate-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/aahmedfaraz/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aahmedfaraz/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -552,6 +553,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/aahmedfaraz/leetcode/tree/master/0796-rotate-string) |
 ## Merge Sort
 |  |
 | ------- |
