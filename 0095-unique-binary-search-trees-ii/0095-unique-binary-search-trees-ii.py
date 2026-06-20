@@ -6,12 +6,15 @@
 #         self.right = right
 class Solution:
     def generateTrees(self, n: int) -> List[Optional[TreeNode]]:
+
+        mapt = {}
+
         def bst(start, end):
             if start > end:
                 return [None]
-            
-            if start == end:
-                return [TreeNode(start)]
+
+            if (start, end) in mapt:
+                return mapt[(start, end)]
             
             trees = []
 
@@ -23,7 +26,10 @@ class Solution:
                     for rightT in rightTrees:
                         root = TreeNode(rootval, leftT, rightT)
                         trees.append(root)
-
+            
+            mapt[(start, end)] = trees
+            if start == end:
+                print(trees)
             return trees
 
         return bst(1, n)
