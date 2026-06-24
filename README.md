@@ -139,6 +139,7 @@ This repo contains my leetcode practice
 | [0350-intersection-of-two-arrays-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/aahmedfaraz/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/aahmedfaraz/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/aahmedfaraz/leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/aahmedfaraz/leetcode/tree/master/0704-binary-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aahmedfaraz/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -459,6 +460,7 @@ This repo contains my leetcode practice
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aahmedfaraz/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/aahmedfaraz/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aahmedfaraz/leetcode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/aahmedfaraz/leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/aahmedfaraz/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/aahmedfaraz/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aahmedfaraz/leetcode/tree/master/0509-fibonacci-number) |
