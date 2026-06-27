@@ -56,6 +56,7 @@ This repo contains my leetcode practice
 | [0119-pascals-triangle-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/aahmedfaraz/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aahmedfaraz/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/aahmedfaraz/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/aahmedfaraz/leetcode/tree/master/0134-gas-station) |
 | [0149-max-points-on-a-line](https://github.com/aahmedfaraz/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
@@ -233,6 +234,7 @@ This repo contains my leetcode practice
 | [0073-set-matrix-zeroes](https://github.com/aahmedfaraz/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/aahmedfaraz/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/aahmedfaraz/leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/aahmedfaraz/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/aahmedfaraz/leetcode/tree/master/0133-clone-graph) |
 | [0149-max-points-on-a-line](https://github.com/aahmedfaraz/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -728,4 +730,8 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/aahmedfaraz/leetcode/tree/master/0149-max-points-on-a-line) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aahmedfaraz/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
