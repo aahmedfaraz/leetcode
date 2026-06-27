@@ -7,19 +7,35 @@ class Solution:
         res = []
 
         for word in words:
-            cf = 0
-            cs = 0
-            ct = 0
-            for ch in word:
-                ch = ch.lower()
-                if ch in fr:
-                    cf += 1
-                if ch in sr:
-                    cs += 1
-                if ch in tr:
-                    ct += 1
-            maxx = max(cf, max(cs, ct))
-            if maxx == len(word):
+            xword = word.lower()
+            mismatch = False
+            # check fr
+            for ch in xword:
+                if ch not in fr:
+                    mismatch = True
+                    break
+            if not mismatch:
                 res.append(word)
+                continue
+
+            mismatch = False
+            # check sr
+            for ch in xword:
+                if ch not in sr:
+                    mismatch = True
+                    break
+            if not mismatch:
+                res.append(word)
+                continue
+
+            mismatch = False
+            # check tr
+            for ch in xword:
+                if ch not in tr:
+                    mismatch = True
+                    break
+            if not mismatch:
+                res.append(word)
+                continue
         
         return res
