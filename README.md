@@ -57,6 +57,7 @@ This repo contains my leetcode practice
 | [0120-triangle](https://github.com/aahmedfaraz/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aahmedfaraz/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aahmedfaraz/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/aahmedfaraz/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/aahmedfaraz/leetcode/tree/master/0134-gas-station) |
 | [0149-max-points-on-a-line](https://github.com/aahmedfaraz/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
@@ -114,6 +115,7 @@ This repo contains my leetcode practice
 | [0074-search-a-2d-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/aahmedfaraz/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/aahmedfaraz/leetcode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/aahmedfaraz/leetcode/tree/master/0130-surrounded-regions) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aahmedfaraz/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/aahmedfaraz/leetcode/tree/master/1895-largest-magic-square) |
@@ -619,6 +621,7 @@ This repo contains my leetcode practice
 | [0113-path-sum-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aahmedfaraz/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aahmedfaraz/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/aahmedfaraz/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/aahmedfaraz/leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -663,6 +666,7 @@ This repo contains my leetcode practice
 | [0111-minimum-depth-of-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/aahmedfaraz/leetcode/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/aahmedfaraz/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/aahmedfaraz/leetcode/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/aahmedfaraz/leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/aahmedfaraz/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -737,4 +741,5 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aahmedfaraz/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/aahmedfaraz/leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
