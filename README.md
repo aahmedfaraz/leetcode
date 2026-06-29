@@ -393,6 +393,7 @@ This repo contains my leetcode practice
 | [0409-longest-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/aahmedfaraz/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aahmedfaraz/leetcode/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/aahmedfaraz/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/aahmedfaraz/leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/aahmedfaraz/leetcode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0541-reverse-string-ii) |
@@ -571,6 +572,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/aahmedfaraz/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/aahmedfaraz/leetcode/tree/master/0796-rotate-string) |
 ## Merge Sort
 |  |
