@@ -59,6 +59,7 @@ This repo contains my leetcode practice
 | [0128-longest-consecutive-sequence](https://github.com/aahmedfaraz/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/aahmedfaraz/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/aahmedfaraz/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/aahmedfaraz/leetcode/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/aahmedfaraz/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aahmedfaraz/leetcode/tree/master/0217-contains-duplicate) |
@@ -487,6 +488,7 @@ This repo contains my leetcode practice
 | [0045-jump-game-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aahmedfaraz/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/aahmedfaraz/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/aahmedfaraz/leetcode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/aahmedfaraz/leetcode/tree/master/0455-assign-cookies) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aahmedfaraz/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
