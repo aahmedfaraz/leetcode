@@ -19,6 +19,10 @@ class Solution:
 
         for factor in factors:
             substring = s[0:factor]
+
+            if s[0:factor*2] != (substring+substring):
+                continue
+
             multiple = n // factor
             sstring = substring * multiple
             # print(factor, sstring)
