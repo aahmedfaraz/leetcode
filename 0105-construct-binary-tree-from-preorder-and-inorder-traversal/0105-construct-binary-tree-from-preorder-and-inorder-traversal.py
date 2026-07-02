@@ -8,13 +8,33 @@ class Solution:
     def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
         if not preorder or not inorder:
             return None
-        rootval = preorder[0]
-        rootAt = inorder.index(rootval)
-        
-        preorderLeft = preorder[1 : rootAt+1]
-        preorderRight = preorder[rootAt+1 :]
+        inmap = {val: i for i, val in enumerate(inorder)}
 
-        inorderLeft = inorder[: rootAt]
-        inorderRight = inorder[rootAt+1 :]
-        
-        return TreeNode(rootval, self.buildTree(preorderLeft, inorderLeft), self.buildTree(preorderRight, inorderRight))
+        def builtT(s1, g2, h4, k9): # to increase the challenge, renaming for myself
+            if s1 > g2:
+                return None
+            if s1 == g2:
+                return TreeNode(preorder[s1])
+
+            rootval = preorder[s1]
+            rootat = inmap[rootval]
+            lsize = rootat - h4
+
+            root = TreeNode(rootval)
+
+            root.left = builtT(
+                s1+1,
+                s1+lsize,
+                h4,
+                rootat-1,
+            )
+            root.right = builtT(
+                s1+lsize+1,
+                g2,
+                rootat+1,
+                k9,
+            )
+
+            return root
+
+        return builtT(0, len(preorder)-1, 0, len(inorder)-1)
