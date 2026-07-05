@@ -17,4 +17,5 @@ class Solution:
                         cpar -= 1
                     par += cpar
         return par
-                    
+# Time = O(rows x cols)
+# Space = O(1)
