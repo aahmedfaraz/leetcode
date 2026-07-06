@@ -13,18 +13,14 @@ class Solution:
         
         while level:
             nextLevel = []
-            nextLevelHasANode = False
             currLevelVals = []
             for node in level:
                 if node:
                     currLevelVals.append(node.val)
-                    nextLevel.append(node.left)
-                    nextLevel.append(node.right)
-                    if node.left or node.right:
-                        nextLevelHasANode = True
+                    if node.left:
+                        nextLevel.append(node.left)
+                    if node.right:
+                        nextLevel.append(node.right)
             res.append(currLevelVals)
-            if not nextLevelHasANode:
-                level = []
-            else:
-                level = nextLevel
+            level = nextLevel
         return res[::-1]
