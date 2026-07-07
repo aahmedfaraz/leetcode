@@ -7,3 +7,5 @@ class Solution:
             else:
                 countl += 1
         return countu == len(word) or countl == len(word) or (65 <= ord(word[0]) <= 90 and countl == len(word)-1)
+# Time = O(n)
+# Space = o(1)
