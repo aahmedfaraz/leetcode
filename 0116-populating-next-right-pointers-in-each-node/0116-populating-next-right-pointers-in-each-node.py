@@ -18,13 +18,11 @@ class Solution:
             newlevel = []
             for i in range(len(level)):
                 node = level[i]
-                if node.left:
-                    newlevel.append(node.left)
-                if node.right:
-                    newlevel.append(node.right)
-                if i == len(level)-1:
-                    node.next = None
-                else:
-                    node.next = level[i+1]
+                if node:
+                    newlevel.extend([node.left, node.right])
+                    if i == len(level)-1:
+                        node.next = None
+                    else:
+                        node.next = level[i+1]
             level = newlevel
         return root
