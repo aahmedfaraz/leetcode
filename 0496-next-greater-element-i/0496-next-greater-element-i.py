@@ -9,3 +9,6 @@ class Solution:
                     nums1[i] = nums2[j]
                     break
         return nums1
+# Let, m = length of nums1, n = length of nums2
+# Time = O(m x n)
+# Space = O(n) hashmap
