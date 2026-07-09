@@ -80,6 +80,7 @@ This repo contains my leetcode practice
 | [0463-island-perimeter](https://github.com/aahmedfaraz/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/aahmedfaraz/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/aahmedfaraz/leetcode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/aahmedfaraz/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aahmedfaraz/leetcode/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
@@ -266,6 +267,7 @@ This repo contains my leetcode practice
 | [0389-find-the-difference](https://github.com/aahmedfaraz/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aahmedfaraz/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/aahmedfaraz/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aahmedfaraz/leetcode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/aahmedfaraz/leetcode/tree/master/0705-design-hashset) |
@@ -523,6 +525,7 @@ This repo contains my leetcode practice
 | [0145-binary-tree-postorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/aahmedfaraz/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aahmedfaraz/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/aahmedfaraz/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/aahmedfaraz/leetcode/tree/master/0682-baseball-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/aahmedfaraz/leetcode/tree/master/2751-robot-collisions) |
@@ -753,6 +756,7 @@ This repo contains my leetcode practice
 | [0042-trapping-rain-water](https://github.com/aahmedfaraz/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aahmedfaraz/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aahmedfaraz/leetcode/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/aahmedfaraz/leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Function
 |  |
 | ------- |
