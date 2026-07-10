@@ -1,14 +1,15 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        data = { nums2[i]: i for i in range(len(nums2)) }
-        for i in range(len(nums1)):
-            num = nums1[i]
-            nums1[i] = -1
-            for j in range(data[num]+1, len(nums2)):
-                if nums2[j] > num:
-                    nums1[i] = nums2[j]
-                    break
+        m, n = len(nums1), len(nums2)
+        stack = []
+        data = {}
+        for i in range(n):
+            num = nums2[i]
+            while stack and stack[-1] < num:
+                data[stack.pop()] = num
+            stack.append(num)
+        for num in stack:
+            data[num] = -1
+        for i in range(m):
+            nums1[i] = data[nums1[i]]
         return nums1
-# Let, m = length of nums1, n = length of nums2
-# Time = O(m x n)
-# Space = O(n) hashmap
