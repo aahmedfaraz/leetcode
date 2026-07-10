@@ -3,13 +3,19 @@ class Solution:
         m, n = len(nums1), len(nums2)
         stack = []
         data = {}
-        for i in range(n):
+        for i in range(n): # O(n)
             num = nums2[i]
-            while stack and stack[-1] < num:
-                data[stack.pop()] = num
-            stack.append(num)
-        for num in stack:
+            while stack and stack[-1] < num: # O(k), k <= n
+                data[stack.pop()] = num # O(1)
+            stack.append(num) # amortized O(1)
+        for num in stack: # O(k)
             data[num] = -1
-        for i in range(m):
+        for i in range(m): # O(m)
             nums1[i] = data[nums1[i]]
         return nums1
+# Time = O(n) + O(k) + O(m)
+# = O(n) + O(n) + O(m)
+# = O(2n) + O(m)
+# = O(n + m)
+
+# Space = O(n) stack space
