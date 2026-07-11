@@ -13,25 +13,28 @@ class Solution:
         res = []
 
         que = deque([root])
-        while que:
-            node = que.pop()
+        while que: # O(n)
+            node = que.pop() # O(1)
 
             if node.val in data:
-                data[node.val] += 1
+                data[node.val] += 1 # O(1)
             else:
-                data[node.val] = 1
+                data[node.val] = 1 # O(1)
 
-            count = data[node.val]
+            count = data[node.val] # O(1)
             
             if count == maxval:
-                res.append(node.val)
+                res.append(node.val) # O(1)
             elif count > maxval:
                 maxval = count
-                res = [node.val]
+                res = [node.val] # O(1)
             
             if node.left:
-                que.append(node.left)
+                que.append(node.left) # O(1)
             if node.right:
-                que.append(node.right)
+                que.append(node.right) # O(1)
 
         return res
+
+# Time = O(n)
+# Space = O(n)
