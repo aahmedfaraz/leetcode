@@ -30,3 +30,6 @@ class Solution:
             return maxarm
         dfs(root)
         return largest
+
+# Time = O(n)
+# Space = O(n)
