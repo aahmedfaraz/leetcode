@@ -68,6 +68,7 @@ This repo contains my leetcode practice
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aahmedfaraz/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/aahmedfaraz/leetcode/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aahmedfaraz/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/aahmedfaraz/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -125,6 +126,7 @@ This repo contains my leetcode practice
 | [0079-word-search](https://github.com/aahmedfaraz/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/aahmedfaraz/leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/aahmedfaraz/leetcode/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/aahmedfaraz/leetcode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/aahmedfaraz/leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/aahmedfaraz/leetcode/tree/master/0832-flipping-an-image) |
@@ -456,6 +458,7 @@ This repo contains my leetcode practice
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aahmedfaraz/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0221-maximal-square](https://github.com/aahmedfaraz/leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/aahmedfaraz/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/aahmedfaraz/leetcode/tree/master/0392-is-subsequence) |
