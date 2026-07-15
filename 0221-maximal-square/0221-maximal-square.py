@@ -25,4 +25,5 @@ class Solution:
         
         helper(0, 0)
         return max1sinarea
-
+# Time = O(rows x cols) = O(n)
+# Space = O(rows x cols) = O(n)
