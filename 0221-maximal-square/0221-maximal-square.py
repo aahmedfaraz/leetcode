@@ -13,3 +13,6 @@ class Solution:
                     maxval = max(maxval, dp[row][col])
         
         return maxval ** 2
+
+# Time = O(rows x cols)
+# Space = O(rows x cols)
