@@ -19,3 +19,6 @@ class BSTIterator:
 
     def hasNext(self) -> bool:
         return len(self.stack) > 0
+
+# Time: O(1) amortized per next(), O(1) for hasNext(), O(h) for the constructor (h = height of the BST).
+# Space: O(h), where h is the height of the tree (for the stack).
