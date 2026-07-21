@@ -14,9 +14,9 @@ class Solution:
 
         layer = [root]
 
-        while layer:
+        def dfs(layer):
+            if not layer: return
             newlayer = []
-
             for i in range(len(layer)):
                 node = layer[i]
                 if node.left:
@@ -24,7 +24,8 @@ class Solution:
                 if node.right:
                     newlayer.append(node.right)
                 node.next = layer[i+1] if i < len(layer)-1 else None
-            
-            layer = newlayer
+            dfs(newlayer)
+        
+        dfs(layer)
         
         return root
