@@ -40,3 +40,6 @@ class Solution:
         tail.next = left if left else right
 
         return dummy.next
+
+# Time = Merge Sort = O(n log n)
+# Space = Recursion = O(log n)
