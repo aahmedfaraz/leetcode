@@ -199,6 +199,7 @@ This repo contains my leetcode practice
 | [0049-group-anagrams](https://github.com/aahmedfaraz/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aahmedfaraz/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aahmedfaraz/leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/aahmedfaraz/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aahmedfaraz/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aahmedfaraz/leetcode/tree/master/0242-valid-anagram) |
@@ -299,6 +300,7 @@ This repo contains my leetcode practice
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aahmedfaraz/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aahmedfaraz/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0148-sort-list](https://github.com/aahmedfaraz/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/aahmedfaraz/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/aahmedfaraz/leetcode/tree/master/0705-design-hashset) |
@@ -355,6 +357,7 @@ This repo contains my leetcode practice
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/aahmedfaraz/leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/aahmedfaraz/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/aahmedfaraz/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/aahmedfaraz/leetcode/tree/master/0283-move-zeroes) |
@@ -569,6 +572,7 @@ This repo contains my leetcode practice
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/aahmedfaraz/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0191-number-of-1-bits) |
@@ -620,6 +624,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/aahmedfaraz/leetcode/tree/master/0148-sort-list) |
 ## Memoization
 |  |
 | ------- |
