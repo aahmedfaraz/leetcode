@@ -500,6 +500,7 @@ This repo contains my leetcode practice
 | [0168-excel-sheet-column-title](https://github.com/aahmedfaraz/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aahmedfaraz/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/aahmedfaraz/leetcode/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/aahmedfaraz/leetcode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aahmedfaraz/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
@@ -823,6 +824,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/aahmedfaraz/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/aahmedfaraz/leetcode/tree/master/0223-rectangle-area) |
 ## Union-Find
 |  |
 | ------- |
