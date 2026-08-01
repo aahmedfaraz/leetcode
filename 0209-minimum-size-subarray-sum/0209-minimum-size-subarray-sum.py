@@ -5,7 +5,7 @@ class Solution:
         i, j, n = 0, 0, len(nums)
         csum, size = nums[0], float('inf')
 
-        while i < n or j < n:
+        while i < n or j < n: # O(n)
             if csum >= target:
                 size = min(size, j - i + 1)
                 
@@ -27,5 +27,5 @@ class Solution:
         
         return 0 if size == float('inf') else size
 
-# Time = 
-# Space = 
+# Time = O(n)
+# Space = O(1)
