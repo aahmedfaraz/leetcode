@@ -67,6 +67,7 @@ This repo contains my leetcode practice
 | [0137-single-number-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/aahmedfaraz/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/aahmedfaraz/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/aahmedfaraz/leetcode/tree/master/0221-maximal-square) |
@@ -140,6 +141,7 @@ This repo contains my leetcode practice
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/aahmedfaraz/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/aahmedfaraz/leetcode/tree/master/1895-largest-magic-square) |
@@ -153,6 +155,7 @@ This repo contains my leetcode practice
 | [0069-sqrtx](https://github.com/aahmedfaraz/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/aahmedfaraz/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/aahmedfaraz/leetcode/tree/master/0278-first-bad-version) |
@@ -221,6 +224,7 @@ This repo contains my leetcode practice
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aahmedfaraz/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/aahmedfaraz/leetcode/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aahmedfaraz/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aahmedfaraz/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
