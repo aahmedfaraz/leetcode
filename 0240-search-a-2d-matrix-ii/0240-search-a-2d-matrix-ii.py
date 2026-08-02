@@ -15,8 +15,11 @@ class Solution:
             return False
 
         for row in range(rows): # O(rows) + O(log n) = O(rows log cols)
-            if matrix[row][0] <= target and binsearch(row, 0, cols-1): # O(log cols)
-                return True
+            if matrix[row][0] <= target: 
+                if binsearch(row, 0, cols-1): # O(log cols)
+                    return True
+            else:
+                break
         
         return False
 
