@@ -72,6 +72,7 @@ This repo contains my leetcode practice
 | [0217-contains-duplicate](https://github.com/aahmedfaraz/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/aahmedfaraz/leetcode/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aahmedfaraz/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/aahmedfaraz/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -130,6 +131,7 @@ This repo contains my leetcode practice
 | [0085-maximal-rectangle](https://github.com/aahmedfaraz/leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/aahmedfaraz/leetcode/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/aahmedfaraz/leetcode/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/aahmedfaraz/leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/aahmedfaraz/leetcode/tree/master/0832-flipping-an-image) |
@@ -158,6 +160,7 @@ This repo contains my leetcode practice
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/aahmedfaraz/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/aahmedfaraz/leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -585,6 +588,7 @@ This repo contains my leetcode practice
 | [0190-reverse-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aahmedfaraz/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aahmedfaraz/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Recursion
 |  |
