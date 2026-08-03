@@ -18,3 +18,6 @@ class Solution:
                 dp[col] = max(1, need)
         
         return dp[0]
+
+# Time = O(rows x cols)
+# Space = O(cols)
