@@ -440,6 +440,7 @@ This repo contains my leetcode practice
 | [0504-base-7](https://github.com/aahmedfaraz/leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/aahmedfaraz/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/aahmedfaraz/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aahmedfaraz/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/aahmedfaraz/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/aahmedfaraz/leetcode/tree/master/0696-count-binary-substrings) |
