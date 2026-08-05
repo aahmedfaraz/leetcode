@@ -48,3 +48,6 @@ class Solution:
         for row in range(rows):
             for col in range(cols):
                 board[row][col] = transformAns(board[row][col])
+
+# Time = O(rows x cols)
+# Space = O(1) auxiliary space
