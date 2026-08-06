@@ -13,3 +13,6 @@ class Solution:
             min_col = min(min_col, b)
 
         return min_row * min_col
+
+# Time = O(k), where k = len(ops)
+# Space = O(1) auxiliary space
