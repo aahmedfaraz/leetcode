@@ -6,10 +6,11 @@ class Solution:
         min_row = m
         min_col = n
 
-        for op in ops:
-            if op[0] < min_row:
-                min_row = op[0]
-            if op[1] < min_col:
-                min_col = op[1]
+        for a, b in ops:
+            min_row = min(min_row, a)
+            min_col = min(min_col, b)
 
         return min_row * min_col
+
+# Time: O(k) where k = len(ops)
+# Space: O(1) auxiliary space
