@@ -33,3 +33,14 @@ class Solution:
         partition([], 0)
 
         return res
+
+# Time =>
+#    DP = O(n^2)
+#    Recursion = O(2^n-1) * (slicing O(n) + subs copy O(n))  = O(2n.2^n-1)
+# Overall Time Complexity = O(n^2 + n.2^n-1) = O(n.2^n)
+
+# Space =>
+#    DP = O(n^2)
+#    Recursion = Depth O(n) + subs copy O(n) = O(n)
+#    Result = 2^n-1 partitions, and each partition store n characters = O(n.2^n-1)
+# Overall Space complexity = O(n^2 + n.2^n-1) = O(n.2^n) with output, O(n^2) without output
