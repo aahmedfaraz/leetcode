@@ -10,33 +10,25 @@ class Solution:
                 if row == col:
                     dp[row][col] = True
                 else: # Fill DP
-                    if s[row] == s[col]:
-                        midx, midy = row+1, col-1
-                        if midx == midy or midy < midx:
-                            dp[row][col] = True
-                        else:
-                            dp[row][col] = dp[midx][midy]
+                    if col - row <= 2:
+                        dp[row][col] = s[row] == s[col]
                     else:
-                        dp[row][col] = False
+                        dp[row][col] = s[row] == s[col] and dp[row+1][col-1]
                 row += 1
                 col += 1
 
         res = []
         
-        def partition(cuts, start):
+        def partition(subs, start):
             nonlocal res
             if start == n:
-                prev = 0
-                partitions = []
-                for i in range(len(cuts)):
-                    partitions.append(s[cuts[i-1] if (i-1) > -1 else 0: cuts[i]])
-                res.append(partitions)
+                res.append(subs.copy())
             else:
                 for cut in range(start+1, n+1):
                     if dp[start][cut-1]: # is palindrome
-                        cuts.append(cut)
-                        partition(cuts, cut)
-                        cuts.pop()
+                        subs.append(s[start:cut])
+                        partition(subs, cut)
+                        subs.pop()
 
         partition([], 0)
 
