@@ -1,47 +1,43 @@
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
-        if not s: return []
-        if len(s) == 1: return [[s]]
+        n = len(s)
+        dp = [([False] * n) for _ in range(n)]
 
-        paliset = set()
-
-        def isPali(subs: str) -> bool:
-            left, right = 0, len(subs)-1
-            while left < right:
-                if subs[left] != subs[right]:
-                    return False
-                left += 1
-                right -= 1
-            return True
-
-        def fillPaliSet(subs: str):
-            for start in range(len(subs)):
-                for cut in range(start+1, len(subs)+1):
-                    if isPali(subs[start: cut]):
-                        paliset.add((start, cut))
-
-        fillPaliSet(s)
-        # print(paliset)
+        for i in range(n):
+            row, col = 0, i
+            while col < n:
+                # Base Case
+                if row == col:
+                    dp[row][col] = True
+                else: # Fill DP
+                    if s[row] == s[col]:
+                        midx, midy = row+1, col-1
+                        if midx == midy or midy < midx:
+                            dp[row][col] = True
+                        else:
+                            dp[row][col] = dp[midx][midy]
+                    else:
+                        dp[row][col] = False
+                row += 1
+                col += 1
 
         res = []
+        
+        def partition(cuts, start):
+            nonlocal res
+            if start == n:
+                prev = 0
+                partitions = []
+                for i in range(len(cuts)):
+                    partitions.append(s[cuts[i-1] if (i-1) > -1 else 0: cuts[i]])
+                res.append(partitions)
+            else:
+                for cut in range(start+1, n+1):
+                    if dp[start][cut-1]: # is palindrome
+                        cuts.append(cut)
+                        partition(cuts, cut)
+                        cuts.pop()
 
-        def dfs(path, start, end):
-            # print(path, start, end)
-            if start == end:
-                res.append(path.copy())
-                return
-
-            for cut in range(start+1, end+1):
-                if (start, cut) in paliset:
-                    path.append(s[start: cut])
-                    dfs(path, cut, end)
-                    path.pop()
-
-        dfs([], 0, len(s))
-
-        # print(res)
+        partition([], 0)
 
         return res
-            
-# Time = 
-# Space = 
