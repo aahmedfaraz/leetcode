@@ -47,3 +47,5 @@ class Solution:
             return dummy.next
         
         return mergesort(head)
+# Time = O(n log n) merge sort
+# Space = O(log n) recursion space
