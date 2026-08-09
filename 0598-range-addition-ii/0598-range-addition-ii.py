@@ -6,3 +6,5 @@ class Solution:
             minx = min(x, minx)
             miny = min(y, miny)
         return minx * miny
+# Time = O(n)
+# Space = O(1)
