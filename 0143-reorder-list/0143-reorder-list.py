@@ -10,7 +10,7 @@ class Solution:
                 return
             secondlastnode = None
             lastnode = node
-            while lastnode.next:
+            while lastnode.next: # O(n)
                 secondlastnode = lastnode
                 lastnode = lastnode.next
             second = node.next
@@ -21,4 +21,5 @@ class Solution:
             secondlastnode.next = None
             last_to_second(second)
         last_to_second(head)
-        
+# Time = O(n^2)
+# Space = O(n)
