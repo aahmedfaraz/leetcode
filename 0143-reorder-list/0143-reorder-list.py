@@ -8,12 +8,13 @@ class Solution:
         if not head or not head.next:
             return head
 
+        # find mid of the list - O(n)
         slow, fast = head, head.next
-
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
         
+        # reverse the other half of the list - O(n)
         l2 = slow.next
         slow.next = None
         prev = None
@@ -23,12 +24,9 @@ class Solution:
             prev = l2
             l2 = nextnode
 
-        part1 = head
-        part2 = prev
-
+        # merge the lists in required way - O(n)
         curr1 = head
-        curr2 = part2
-
+        curr2 = prev
         while curr1 and curr2:
             second = curr1.next
             secondlast = curr2.next
@@ -39,6 +37,5 @@ class Solution:
             curr1 = second
             curr2 = secondlast
 
-# head = ListNode(1, ListNode(2, ListNode(3, ListNode(4))))
-
-# Solution.reorderlist(head)
+# Time = O(n)
+# Space = O(1)
