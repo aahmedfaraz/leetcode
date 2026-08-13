@@ -275,6 +275,7 @@ This repo contains my leetcode practice
 | [0127-word-ladder](https://github.com/aahmedfaraz/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/aahmedfaraz/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/aahmedfaraz/leetcode/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/aahmedfaraz/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/aahmedfaraz/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
@@ -316,6 +317,7 @@ This repo contains my leetcode practice
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aahmedfaraz/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/aahmedfaraz/leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/aahmedfaraz/leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/aahmedfaraz/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/aahmedfaraz/leetcode/tree/master/0203-remove-linked-list-elements) |
@@ -350,6 +352,7 @@ This repo contains my leetcode practice
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aahmedfaraz/leetcode/tree/master/0146-lru-cache) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
@@ -810,6 +813,7 @@ This repo contains my leetcode practice
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aahmedfaraz/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aahmedfaraz/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/aahmedfaraz/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/aahmedfaraz/leetcode/tree/master/0225-implement-stack-using-queues) |
