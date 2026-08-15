@@ -321,6 +321,7 @@ This repo contains my leetcode practice
 | [0148-sort-list](https://github.com/aahmedfaraz/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/aahmedfaraz/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0382-linked-list-random-node](https://github.com/aahmedfaraz/leetcode/tree/master/0382-linked-list-random-node) |
 | [0705-design-hashset](https://github.com/aahmedfaraz/leetcode/tree/master/0705-design-hashset) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
@@ -533,6 +534,7 @@ This repo contains my leetcode practice
 | [0342-power-of-four](https://github.com/aahmedfaraz/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/aahmedfaraz/leetcode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/aahmedfaraz/leetcode/tree/master/0367-valid-perfect-square) |
+| [0382-linked-list-random-node](https://github.com/aahmedfaraz/leetcode/tree/master/0382-linked-list-random-node) |
 | [0396-rotate-function](https://github.com/aahmedfaraz/leetcode/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aahmedfaraz/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/aahmedfaraz/leetcode/tree/master/0412-fizz-buzz) |
@@ -875,4 +877,12 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aahmedfaraz/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/aahmedfaraz/leetcode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/aahmedfaraz/leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
