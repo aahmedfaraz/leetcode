@@ -6,7 +6,7 @@ import random
 #         self.next = next
 class Solution:
 
-    def __init__(self, head: Optional[ListNode]):
+    def __init__(self, head: Optional[ListNode]): # Time O(n), Space O(n)
         self.nodes = {}
         idx = 0
         curr = head
@@ -16,7 +16,7 @@ class Solution:
             idx += 1
         self.size = idx
 
-    def getRandom(self) -> int:
+    def getRandom(self) -> int: # Time O(1), Space O(1)
         if self.size == 1:
             return self.nodes[0].val
         idx = random.randint(0, self.size-1)
