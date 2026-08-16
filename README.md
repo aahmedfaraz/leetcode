@@ -824,6 +824,7 @@ This repo contains my leetcode practice
 | [0232-implement-queue-using-stacks](https://github.com/aahmedfaraz/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/aahmedfaraz/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/aahmedfaraz/leetcode/tree/master/0705-design-hashset) |
+| [0933-number-of-recent-calls](https://github.com/aahmedfaraz/leetcode/tree/master/0933-number-of-recent-calls) |
 | [2069-walking-robot-simulation-ii](https://github.com/aahmedfaraz/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Combinatorics
 |  |
@@ -851,6 +852,7 @@ This repo contains my leetcode practice
 | [0225-implement-stack-using-queues](https://github.com/aahmedfaraz/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aahmedfaraz/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/aahmedfaraz/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Brainteaser
 |  |
 | ------- |
@@ -885,4 +887,8 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/aahmedfaraz/leetcode/tree/master/0382-linked-list-random-node) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/aahmedfaraz/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
