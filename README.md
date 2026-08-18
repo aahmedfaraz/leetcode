@@ -431,6 +431,7 @@ This repo contains my leetcode practice
 | [0168-excel-sheet-column-title](https://github.com/aahmedfaraz/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aahmedfaraz/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/aahmedfaraz/leetcode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/aahmedfaraz/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/aahmedfaraz/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/aahmedfaraz/leetcode/tree/master/0290-word-pattern) |
@@ -526,6 +527,7 @@ This repo contains my leetcode practice
 | [0171-excel-sheet-column-number](https://github.com/aahmedfaraz/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/aahmedfaraz/leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/aahmedfaraz/leetcode/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/aahmedfaraz/leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aahmedfaraz/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
@@ -575,6 +577,7 @@ This repo contains my leetcode practice
 | [0145-binary-tree-postorder-traversal](https://github.com/aahmedfaraz/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/aahmedfaraz/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/aahmedfaraz/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/aahmedfaraz/leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/aahmedfaraz/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aahmedfaraz/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/aahmedfaraz/leetcode/tree/master/0496-next-greater-element-i) |
@@ -622,6 +625,7 @@ This repo contains my leetcode practice
 | [0060-permutation-sequence](https://github.com/aahmedfaraz/leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/aahmedfaraz/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/aahmedfaraz/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/aahmedfaraz/leetcode/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/aahmedfaraz/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aahmedfaraz/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/aahmedfaraz/leetcode/tree/master/0509-fibonacci-number) |
