@@ -1,46 +1,36 @@
 class Solution:
     def calculate(self, s: str) -> int:
-        stack = []
         result = 0
-        number = 0
+        num = 0
         sign = 1
+        prevResults = []
 
         for ch in s:
             if ch.isdigit():
-                number = number * 10 + int(ch)
-
+                num = num * 10 + int(ch)
             elif ch == '+':
-                result += sign * number
-                number = 0
+                result += sign * num
+                num = 0
                 sign = 1
-
             elif ch == '-':
-                result += sign * number
-                number = 0
+                result += sign * num
+                num = 0
                 sign = -1
-
             elif ch == '(':
-                # Save result and sign before entering parentheses
-                stack.append(result)
-                stack.append(sign)
-
+                prevResults.append(result)
+                prevResults.append(sign)
                 result = 0
                 sign = 1
-
             elif ch == ')':
-                # Finish the number before ')'
-                result += sign * number
-                number = 0
+                result += sign * num
+                num = 0
+                sign = 1
 
-                # Sign before '('
-                sign = stack.pop()
+                prevSign = prevResults.pop()
+                prevRes = prevResults.pop()
 
-                # Result before '('
-                previous_result = stack.pop()
-
-                result = previous_result + sign * result
-
-        # Add the final number
-        result += sign * number
+                result = prevRes + (prevSign * result)
+        
+        result += sign * num
 
         return result
