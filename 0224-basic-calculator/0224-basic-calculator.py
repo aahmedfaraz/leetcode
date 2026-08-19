@@ -34,3 +34,6 @@ class Solution:
         result += sign * num
 
         return result
+
+# Time = O(n), where n is size of string s
+# Space = O(n), because we are maintaining stack
