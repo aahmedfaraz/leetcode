@@ -277,6 +277,7 @@ This repo contains my leetcode practice
 | [0127-word-ladder](https://github.com/aahmedfaraz/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/aahmedfaraz/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/aahmedfaraz/leetcode/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/aahmedfaraz/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/aahmedfaraz/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/aahmedfaraz/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -318,6 +319,7 @@ This repo contains my leetcode practice
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aahmedfaraz/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aahmedfaraz/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/aahmedfaraz/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/aahmedfaraz/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/aahmedfaraz/leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/aahmedfaraz/leetcode/tree/master/0148-sort-list) |
