@@ -1,7 +1,17 @@
-from bisect import bisect_left
-
 class Solution:
-    def smallerNumbersThanCurrent(self, nums):
-        sorted_nums = sorted(nums)
-
-        return [bisect_left(sorted_nums, num) for num in nums]
+    def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
+        data, n = [(nums[i], i) for i in range(len(nums))], len(nums)
+        data.sort(key=lambda p: p[0])
+        count = 0
+        newdata = []
+        newmap = {}
+        for val in data:
+            num, i = val
+            if num in newmap:
+                newdata.append((i, newmap[num]))
+            else:    
+                newdata.append((i, count))
+                newmap[num] = count
+            count += 1
+        newdata.sort(key=lambda p: p[0])
+        return [val[1] for val in newdata]
