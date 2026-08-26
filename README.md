@@ -103,6 +103,7 @@ This repo contains my leetcode practice
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aahmedfaraz/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aahmedfaraz/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/aahmedfaraz/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/aahmedfaraz/leetcode/tree/master/1470-shuffle-the-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aahmedfaraz/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/aahmedfaraz/leetcode/tree/master/1895-largest-magic-square) |
@@ -350,6 +351,7 @@ This repo contains my leetcode practice
 | [0832-flipping-an-image](https://github.com/aahmedfaraz/leetcode/tree/master/0832-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/aahmedfaraz/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1103-distribute-candies-to-people](https://github.com/aahmedfaraz/leetcode/tree/master/1103-distribute-candies-to-people) |
+| [1441-build-an-array-with-stack-operations](https://github.com/aahmedfaraz/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1518-water-bottles](https://github.com/aahmedfaraz/leetcode/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/aahmedfaraz/leetcode/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/aahmedfaraz/leetcode/tree/master/2069-walking-robot-simulation-ii) |
@@ -595,6 +597,7 @@ This repo contains my leetcode practice
 | [0232-implement-queue-using-stacks](https://github.com/aahmedfaraz/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/aahmedfaraz/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/aahmedfaraz/leetcode/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/aahmedfaraz/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/aahmedfaraz/leetcode/tree/master/2751-robot-collisions) |
 ## Counting
