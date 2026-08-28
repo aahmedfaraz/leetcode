@@ -67,6 +67,7 @@ This repo contains my leetcode practice
 | [0137-single-number-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/aahmedfaraz/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aahmedfaraz/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/aahmedfaraz/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/aahmedfaraz/leetcode/tree/master/0174-dungeon-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -167,6 +168,7 @@ This repo contains my leetcode practice
 | [0069-sqrtx](https://github.com/aahmedfaraz/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/aahmedfaraz/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/aahmedfaraz/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
