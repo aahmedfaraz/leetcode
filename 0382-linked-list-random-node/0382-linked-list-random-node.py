@@ -1,28 +1,16 @@
 import random
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
 class Solution:
 
-    def __init__(self, head: Optional[ListNode]): # Time O(n), Space O(n)
-        self.nodes = {}
-        idx = 0
-        curr = head
+    def __init__(self, head: Optional[ListNode]):
+        self.head = head
+        
+    def getRandom(self) -> int:
+        curr = self.head
+        reservoir = curr
+        count = 0
         while curr:
-            self.nodes[idx] = curr
+            count += 1
+            if random.randint(1, count) == 1:
+                reservoir = curr
             curr = curr.next
-            idx += 1
-        self.size = idx
-
-    def getRandom(self) -> int: # Time O(1), Space O(1)
-        if self.size == 1:
-            return self.nodes[0].val
-        idx = random.randint(0, self.size-1)
-        return self.nodes[idx].val
-
-
-# Your Solution object will be instantiated and called as such:
-# obj = Solution(head)
-# param_1 = obj.getRandom()
+        return reservoir.val
