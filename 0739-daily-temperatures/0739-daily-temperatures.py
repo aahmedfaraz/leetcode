@@ -1,15 +1,23 @@
 class Solution:
-    def dailyTemperatures(self, temperatures: list[int]) -> list[int]:
+    def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
         n = len(temperatures)
-        res = [0] * n
 
-        stack = []  # stores indices
+        if n <= 1: return [0] * n
 
-        for i in range(n):
-            while stack and temperatures[i] > temperatures[stack[-1]]:
-                prev_i = stack.pop()
-                res[prev_i] = i - prev_i
+        days = [0] * n
+        mono = []
 
-            stack.append(i)
+        for i in range(n-1, -1, -1):
+            temp = temperatures[i]
 
-        return res
+            # stablize stack
+            while mono and mono[-1][0] <= temp:
+                mono.pop()
+            
+            # now get ans
+            days[i] = mono[-1][1] - i if mono else 0
+
+            # now add himself
+            mono.append((temp, i))
+        
+        return days
