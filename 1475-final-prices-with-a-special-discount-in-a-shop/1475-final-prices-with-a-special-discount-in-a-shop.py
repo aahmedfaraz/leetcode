@@ -1,19 +1,26 @@
 class Solution:
     def finalPrices(self, prices: List[int]) -> List[int]:
         n = len(prices)
+        if n <= 1: return prices
 
-        res = []
+        finalprices = [0] * n
+        mono = []
 
-        for i in range(n):
+        for i in range(n-1, -1, -1):
             price = prices[i]
-            found = False
-            for j in range(i+1, n):
-                newprice = prices[j]
-                if newprice <= price:
-                    found = True
-                    res.append(price - newprice)
-                    break
-            if not found:
-                res.append(price)
+            
+            # first make stack stable
+            while mono and mono[-1] > price:
+                mono.pop()
 
-        return res
+            # then see the ans
+            if mono:
+                finalprices[i] = price - mono[-1]
+            else:
+                finalprices[i] = price
+            
+            # now add himself
+            mono.append(price)
+        
+        return finalprices
+            
