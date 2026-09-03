@@ -1,17 +1,31 @@
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
-        stack = []
-        max_area = 0
-        heights.append(0)
+        n = len(heights)
 
-        for i, h in enumerate(heights):
-            while stack and heights[stack[-1]] > h:
-                height = heights[stack.pop()]
+        # find all next smalls elements
+        nextsm, mono = [-1] * n, []
+        for i in range(n-1, -1, -1):
+            height = heights[i]
+            while mono and mono[-1][0] >= height:
+                mono.pop()
+            nextsm[i] = mono[-1][1] if mono else -1
+            mono.append((height, i))
 
-                width = i if not stack else i - stack[-1] - 1
+        # find all prev small elements
+        prevsm, mono = [-1] * n, []
+        for i in range(n):
+            height = heights[i]
+            while mono and mono[-1][0] >= height:
+                mono.pop()
+            prevsm[i] = mono[-1][1] if mono else -1
+            mono.append((height, i))
 
-                max_area = max(max_area, height * width)
-
-            stack.append(i)
-
-        return max_area
+        # find max rectangles from all heights
+        maxarea = 0
+        for i in range(n):
+            height = heights[i]
+            width = (n if nextsm[i] == -1 else nextsm[i]) - prevsm[i] - 1
+            area = height * width
+            maxarea = max(maxarea, area)
+        
+        return maxarea
