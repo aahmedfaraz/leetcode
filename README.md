@@ -287,6 +287,7 @@ This repo contains my leetcode practice
 | [0128-longest-consecutive-sequence](https://github.com/aahmedfaraz/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/aahmedfaraz/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/aahmedfaraz/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/aahmedfaraz/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/aahmedfaraz/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -331,6 +332,7 @@ This repo contains my leetcode practice
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aahmedfaraz/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/aahmedfaraz/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/aahmedfaraz/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/aahmedfaraz/leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/aahmedfaraz/leetcode/tree/master/0148-sort-list) |
@@ -395,6 +397,7 @@ This repo contains my leetcode practice
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/aahmedfaraz/leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/aahmedfaraz/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/aahmedfaraz/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -939,4 +942,8 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aahmedfaraz/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
