@@ -67,6 +67,7 @@ This repo contains my leetcode practice
 | [0137-single-number-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/aahmedfaraz/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aahmedfaraz/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/aahmedfaraz/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/aahmedfaraz/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/aahmedfaraz/leetcode/tree/master/0174-dungeon-game) |
@@ -521,6 +522,7 @@ This repo contains my leetcode practice
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aahmedfaraz/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/aahmedfaraz/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/aahmedfaraz/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/aahmedfaraz/leetcode/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/aahmedfaraz/leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/aahmedfaraz/leetcode/tree/master/0322-coin-change) |
