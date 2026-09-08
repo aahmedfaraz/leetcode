@@ -453,6 +453,7 @@ This repo contains my leetcode practice
 | [0125-valid-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/aahmedfaraz/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/aahmedfaraz/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/aahmedfaraz/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aahmedfaraz/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -522,6 +523,7 @@ This repo contains my leetcode practice
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aahmedfaraz/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/aahmedfaraz/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/aahmedfaraz/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/aahmedfaraz/leetcode/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/aahmedfaraz/leetcode/tree/master/0221-maximal-square) |
