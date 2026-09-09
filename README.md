@@ -117,6 +117,7 @@ This repo contains my leetcode practice
 | [1895-largest-magic-square](https://github.com/aahmedfaraz/leetcode/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/aahmedfaraz/leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aahmedfaraz/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2073-time-needed-to-buy-tickets](https://github.com/aahmedfaraz/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2751-robot-collisions](https://github.com/aahmedfaraz/leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aahmedfaraz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aahmedfaraz/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -371,6 +372,7 @@ This repo contains my leetcode practice
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/aahmedfaraz/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/aahmedfaraz/leetcode/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/aahmedfaraz/leetcode/tree/master/2069-walking-robot-simulation-ii) |
+| [2073-time-needed-to-buy-tickets](https://github.com/aahmedfaraz/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/aahmedfaraz/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/aahmedfaraz/leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aahmedfaraz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -910,6 +912,7 @@ This repo contains my leetcode practice
 | [0387-first-unique-character-in-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/aahmedfaraz/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/aahmedfaraz/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/aahmedfaraz/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Brainteaser
 |  |
 | ------- |
