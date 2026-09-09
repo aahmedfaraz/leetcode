@@ -112,6 +112,7 @@ This repo contains my leetcode practice
 | [1441-build-an-array-with-stack-operations](https://github.com/aahmedfaraz/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/aahmedfaraz/leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aahmedfaraz/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/aahmedfaraz/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aahmedfaraz/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/aahmedfaraz/leetcode/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/aahmedfaraz/leetcode/tree/master/1929-concatenation-of-array) |
@@ -367,6 +368,7 @@ This repo contains my leetcode practice
 | [1103-distribute-candies-to-people](https://github.com/aahmedfaraz/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1441-build-an-array-with-stack-operations](https://github.com/aahmedfaraz/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1518-water-bottles](https://github.com/aahmedfaraz/leetcode/tree/master/1518-water-bottles) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/aahmedfaraz/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/aahmedfaraz/leetcode/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/aahmedfaraz/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/aahmedfaraz/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -627,6 +629,7 @@ This repo contains my leetcode practice
 | [1441-build-an-array-with-stack-operations](https://github.com/aahmedfaraz/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aahmedfaraz/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/aahmedfaraz/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2751-robot-collisions](https://github.com/aahmedfaraz/leetcode/tree/master/2751-robot-collisions) |
 ## Counting
 |  |
@@ -906,6 +909,7 @@ This repo contains my leetcode practice
 | [0232-implement-queue-using-stacks](https://github.com/aahmedfaraz/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/aahmedfaraz/leetcode/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/aahmedfaraz/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Brainteaser
 |  |
 | ------- |
