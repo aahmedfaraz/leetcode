@@ -104,6 +104,7 @@ This repo contains my leetcode practice
 | [0748-shortest-completing-word](https://github.com/aahmedfaraz/leetcode/tree/master/0748-shortest-completing-word) |
 | [0832-flipping-an-image](https://github.com/aahmedfaraz/leetcode/tree/master/0832-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/aahmedfaraz/leetcode/tree/master/0874-walking-robot-simulation) |
+| [1046-last-stone-weight](https://github.com/aahmedfaraz/leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/aahmedfaraz/leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/aahmedfaraz/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -265,6 +266,7 @@ This repo contains my leetcode practice
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aahmedfaraz/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aahmedfaraz/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/aahmedfaraz/leetcode/tree/master/1046-last-stone-weight) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/aahmedfaraz/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
