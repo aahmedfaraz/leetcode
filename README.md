@@ -488,6 +488,7 @@ This repo contains my leetcode practice
 | [0500-keyboard-row](https://github.com/aahmedfaraz/leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/aahmedfaraz/leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/aahmedfaraz/leetcode/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/aahmedfaraz/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/aahmedfaraz/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aahmedfaraz/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
