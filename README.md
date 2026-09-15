@@ -601,6 +601,7 @@ This repo contains my leetcode practice
 | [0598-range-addition-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0598-range-addition-ii) |
 | [1103-distribute-candies-to-people](https://github.com/aahmedfaraz/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1185-day-of-the-week](https://github.com/aahmedfaraz/leetcode/tree/master/1185-day-of-the-week) |
+| [1323-maximum-69-number](https://github.com/aahmedfaraz/leetcode/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/aahmedfaraz/leetcode/tree/master/1518-water-bottles) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aahmedfaraz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
@@ -615,6 +616,7 @@ This repo contains my leetcode practice
 | [0135-candy](https://github.com/aahmedfaraz/leetcode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/aahmedfaraz/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/aahmedfaraz/leetcode/tree/master/0455-assign-cookies) |
+| [1323-maximum-69-number](https://github.com/aahmedfaraz/leetcode/tree/master/1323-maximum-69-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aahmedfaraz/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
