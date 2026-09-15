@@ -1,15 +1,16 @@
 class Solution:
     def findJudge(self, n: int, trust: List[List[int]]) -> int:
-        havetrust = {(person+1): set() for person in range(n)}
-        trusts = {(person+1): set() for person in range(n)}
+        trusts = [0] * n
+        judge = [1] * n
 
-        for i in range(len(trust)):
-            a, b = trust[i]
-            havetrust[b].add(a)
-            trusts[a].add(b)
-
-        for person in havetrust:
-            if len(havetrust[person]) == (n-1) and len(trusts[person]) == 0:
-                return person
+        for a, b in trust:
+            a -= 1
+            b -= 1
+            judge[a] = 0
+            trusts[b] += 1
+        
+        for person in range(n):
+            if trusts[person] == (n-1) and judge[person] == 1:
+                return person+1
         
         return -1
