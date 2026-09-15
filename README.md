@@ -73,6 +73,7 @@ This repo contains my leetcode practice
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/aahmedfaraz/leetcode/tree/master/0174-dungeon-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aahmedfaraz/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aahmedfaraz/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -148,6 +149,7 @@ This repo contains my leetcode practice
 | [0085-maximal-rectangle](https://github.com/aahmedfaraz/leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/aahmedfaraz/leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/aahmedfaraz/leetcode/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/aahmedfaraz/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/aahmedfaraz/leetcode/tree/master/0289-game-of-life) |
@@ -469,6 +471,7 @@ This repo contains my leetcode practice
 | [0168-excel-sheet-column-title](https://github.com/aahmedfaraz/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aahmedfaraz/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/aahmedfaraz/leetcode/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/aahmedfaraz/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/aahmedfaraz/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
@@ -651,6 +654,7 @@ This repo contains my leetcode practice
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aahmedfaraz/leetcode/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0212-word-search-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -706,6 +710,7 @@ This repo contains my leetcode practice
 | [0113-path-sum-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/aahmedfaraz/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/aahmedfaraz/leetcode/tree/master/0401-binary-watch) |
 ## String Matching
