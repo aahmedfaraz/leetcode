@@ -106,6 +106,7 @@ This repo contains my leetcode practice
 | [0748-shortest-completing-word](https://github.com/aahmedfaraz/leetcode/tree/master/0748-shortest-completing-word) |
 | [0832-flipping-an-image](https://github.com/aahmedfaraz/leetcode/tree/master/0832-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/aahmedfaraz/leetcode/tree/master/0874-walking-robot-simulation) |
+| [0997-find-the-town-judge](https://github.com/aahmedfaraz/leetcode/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/aahmedfaraz/leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/aahmedfaraz/leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/aahmedfaraz/leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -262,6 +263,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/aahmedfaraz/leetcode/tree/master/0133-clone-graph) |
+| [0997-find-the-town-judge](https://github.com/aahmedfaraz/leetcode/tree/master/0997-find-the-town-judge) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aahmedfaraz/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/aahmedfaraz/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Heap (Priority Queue)
@@ -324,6 +326,7 @@ This repo contains my leetcode practice
 | [0748-shortest-completing-word](https://github.com/aahmedfaraz/leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/aahmedfaraz/leetcode/tree/master/0771-jewels-and-stones) |
 | [0874-walking-robot-simulation](https://github.com/aahmedfaraz/leetcode/tree/master/0874-walking-robot-simulation) |
+| [0997-find-the-town-judge](https://github.com/aahmedfaraz/leetcode/tree/master/0997-find-the-town-judge) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aahmedfaraz/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aahmedfaraz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
