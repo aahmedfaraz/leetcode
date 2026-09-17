@@ -606,6 +606,7 @@ This repo contains my leetcode practice
 | [1185-day-of-the-week](https://github.com/aahmedfaraz/leetcode/tree/master/1185-day-of-the-week) |
 | [1323-maximum-69-number](https://github.com/aahmedfaraz/leetcode/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/aahmedfaraz/leetcode/tree/master/1518-water-bottles) |
+| [2652-sum-multiples](https://github.com/aahmedfaraz/leetcode/tree/master/2652-sum-multiples) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aahmedfaraz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
