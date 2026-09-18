@@ -1,7 +1,13 @@
 class Solution:
     def sumOfMultiples(self, n: int) -> int:
-        s = 0
-        for i in range(3, n+1):
-            if i%3 == 0 or i%5==0 or i%7==0:
-                s += i
-        return s
+        def gauss(n, steps):
+            if steps == 1:
+                return (n * (n+1)) // 2
+            return steps * gauss(n//steps, 1)
+        
+        res = gauss(n, 3) + gauss(n, 5) + gauss(n, 7)
+        res -= (gauss(n, 15) + gauss(n, 35) + gauss(n, 21))
+        res += gauss(n, 105)
+
+        return res
+        
