@@ -1,10 +1,9 @@
 class Solution:
     def combinationSum3(self, k: int, n: int) -> list[list[int]]:
-        combs = []
+        comb, summ, combs = [], 0, []
 
-        def dfs(comb, summ, k):
-            # print(comb, summ, k)
-            nonlocal combs
+        def dfs(k):
+            nonlocal comb, summ, combs
             if summ > n:
                 return
 
@@ -19,13 +18,12 @@ class Solution:
             
             for i in range(start, 10):
                 summ += i
-                comb.append(i)
-                k -= 1
-                dfs(comb, summ, k)
-                k += 1
-                comb.pop()
+                if summ <= n:
+                    comb.append(i)
+                    dfs(k-1)
+                    comb.pop()
                 summ -= i
             
-        dfs([], 0, k)
+        dfs(k)
 
         return combs
