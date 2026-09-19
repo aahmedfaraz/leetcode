@@ -482,6 +482,7 @@ This repo contains my leetcode practice
 | [0224-basic-calculator](https://github.com/aahmedfaraz/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/aahmedfaraz/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/aahmedfaraz/leetcode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/aahmedfaraz/leetcode/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/aahmedfaraz/leetcode/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/aahmedfaraz/leetcode/tree/master/0344-reverse-string) |
@@ -589,6 +590,7 @@ This repo contains my leetcode practice
 | [0258-add-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aahmedfaraz/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/aahmedfaraz/leetcode/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/aahmedfaraz/leetcode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/aahmedfaraz/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/aahmedfaraz/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aahmedfaraz/leetcode/tree/master/0342-power-of-four) |
@@ -724,6 +726,7 @@ This repo contains my leetcode practice
 | [0212-word-search-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/aahmedfaraz/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/aahmedfaraz/leetcode/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/aahmedfaraz/leetcode/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/aahmedfaraz/leetcode/tree/master/0401-binary-watch) |
 ## String Matching
