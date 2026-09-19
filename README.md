@@ -482,6 +482,7 @@ This repo contains my leetcode practice
 | [0242-valid-anagram](https://github.com/aahmedfaraz/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/aahmedfaraz/leetcode/tree/master/0290-word-pattern) |
+| [0306-additive-number](https://github.com/aahmedfaraz/leetcode/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/aahmedfaraz/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/aahmedfaraz/leetcode/tree/master/0383-ransom-note) |
@@ -721,6 +722,7 @@ This repo contains my leetcode practice
 | [0140-word-break-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/aahmedfaraz/leetcode/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/aahmedfaraz/leetcode/tree/master/0401-binary-watch) |
 ## String Matching
 |  |
