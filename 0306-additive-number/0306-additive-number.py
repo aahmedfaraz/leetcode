@@ -6,8 +6,10 @@ class Solution:
             return False
 
         def dfs(num1, num2, res, start):
-            if start >= n:
-                return (num1 + num2) == res
+            if (num1 + num2) != res:
+                return False
+            if start == n:
+                return True
             if (num1 + num2) == res:
                 for i in range(start+1, n+1):
                     if num[start] == '0' and (i-start) > 1:
