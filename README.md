@@ -609,6 +609,7 @@ This repo contains my leetcode practice
 | [1103-distribute-candies-to-people](https://github.com/aahmedfaraz/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1185-day-of-the-week](https://github.com/aahmedfaraz/leetcode/tree/master/1185-day-of-the-week) |
 | [1323-maximum-69-number](https://github.com/aahmedfaraz/leetcode/tree/master/1323-maximum-69-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aahmedfaraz/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/aahmedfaraz/leetcode/tree/master/1518-water-bottles) |
 | [2652-sum-multiples](https://github.com/aahmedfaraz/leetcode/tree/master/2652-sum-multiples) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aahmedfaraz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -952,6 +953,7 @@ This repo contains my leetcode practice
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/aahmedfaraz/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/aahmedfaraz/leetcode/tree/master/0223-rectangle-area) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aahmedfaraz/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Union-Find
 |  |
 | ------- |
