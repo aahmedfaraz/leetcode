@@ -484,6 +484,7 @@ This repo contains my leetcode practice
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/aahmedfaraz/leetcode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/aahmedfaraz/leetcode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/aahmedfaraz/leetcode/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/aahmedfaraz/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -730,6 +731,7 @@ This repo contains my leetcode practice
 | [0216-combination-sum-iii](https://github.com/aahmedfaraz/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/aahmedfaraz/leetcode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/aahmedfaraz/leetcode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/aahmedfaraz/leetcode/tree/master/0401-binary-watch) |
@@ -871,6 +873,7 @@ This repo contains my leetcode practice
 | [0130-surrounded-regions](https://github.com/aahmedfaraz/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/aahmedfaraz/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/aahmedfaraz/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/aahmedfaraz/leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/aahmedfaraz/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/aahmedfaraz/leetcode/tree/master/0463-island-perimeter) |
