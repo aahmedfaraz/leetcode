@@ -555,6 +555,7 @@ This repo contains my leetcode practice
 | [0322-coin-change](https://github.com/aahmedfaraz/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/aahmedfaraz/leetcode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/aahmedfaraz/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/aahmedfaraz/leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/aahmedfaraz/leetcode/tree/master/0509-fibonacci-number) |
@@ -595,6 +596,7 @@ This repo contains my leetcode practice
 | [0326-power-of-three](https://github.com/aahmedfaraz/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aahmedfaraz/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/aahmedfaraz/leetcode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/aahmedfaraz/leetcode/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/aahmedfaraz/leetcode/tree/master/0382-linked-list-random-node) |
 | [0396-rotate-function](https://github.com/aahmedfaraz/leetcode/tree/master/0396-rotate-function) |
@@ -729,6 +731,7 @@ This repo contains my leetcode practice
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/aahmedfaraz/leetcode/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/aahmedfaraz/leetcode/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/aahmedfaraz/leetcode/tree/master/0401-binary-watch) |
 ## String Matching
 |  |
