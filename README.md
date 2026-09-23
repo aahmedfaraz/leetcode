@@ -113,6 +113,7 @@ This repo contains my leetcode practice
 | [1051-height-checker](https://github.com/aahmedfaraz/leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/aahmedfaraz/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1219-path-with-maximum-gold](https://github.com/aahmedfaraz/leetcode/tree/master/1219-path-with-maximum-gold) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aahmedfaraz/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aahmedfaraz/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -220,6 +221,7 @@ This repo contains my leetcode practice
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/aahmedfaraz/leetcode/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/aahmedfaraz/leetcode/tree/master/0868-binary-gap) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aahmedfaraz/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/aahmedfaraz/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -515,6 +517,7 @@ This repo contains my leetcode practice
 | [0917-reverse-only-letters](https://github.com/aahmedfaraz/leetcode/tree/master/0917-reverse-only-letters) |
 | [1078-occurrences-after-bigram](https://github.com/aahmedfaraz/leetcode/tree/master/1078-occurrences-after-bigram) |
 | [1108-defanging-an-ip-address](https://github.com/aahmedfaraz/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/aahmedfaraz/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aahmedfaraz/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -738,6 +741,7 @@ This repo contains my leetcode practice
 | [0357-count-numbers-with-unique-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/aahmedfaraz/leetcode/tree/master/0401-binary-watch) |
 | [1219-path-with-maximum-gold](https://github.com/aahmedfaraz/leetcode/tree/master/1219-path-with-maximum-gold) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## String Matching
 |  |
 | ------- |
