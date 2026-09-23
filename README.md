@@ -794,6 +794,7 @@ This repo contains my leetcode practice
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/aahmedfaraz/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aahmedfaraz/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aahmedfaraz/leetcode/tree/master/0563-binary-tree-tilt) |
 ## Depth-First Search
@@ -824,6 +825,7 @@ This repo contains my leetcode practice
 | [0404-sum-of-left-leaves](https://github.com/aahmedfaraz/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/aahmedfaraz/leetcode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aahmedfaraz/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aahmedfaraz/leetcode/tree/master/0563-binary-tree-tilt) |
 ## Binary Tree
@@ -861,6 +863,7 @@ This repo contains my leetcode practice
 | [0257-binary-tree-paths](https://github.com/aahmedfaraz/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/aahmedfaraz/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aahmedfaraz/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aahmedfaraz/leetcode/tree/master/0563-binary-tree-tilt) |
 ## Breadth-First Search
@@ -884,6 +887,7 @@ This repo contains my leetcode practice
 | [0322-coin-change](https://github.com/aahmedfaraz/leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/aahmedfaraz/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/aahmedfaraz/leetcode/tree/master/0463-island-perimeter) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aahmedfaraz/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -895,6 +899,7 @@ This repo contains my leetcode practice
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/aahmedfaraz/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aahmedfaraz/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Database
 |  |
 | ------- |
