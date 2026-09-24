@@ -92,6 +92,7 @@ This repo contains my leetcode practice
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aahmedfaraz/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/aahmedfaraz/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/aahmedfaraz/leetcode/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/aahmedfaraz/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/aahmedfaraz/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/aahmedfaraz/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/aahmedfaraz/leetcode/tree/master/0496-next-greater-element-i) |
@@ -219,6 +220,7 @@ This repo contains my leetcode practice
 | [0401-binary-watch](https://github.com/aahmedfaraz/leetcode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aahmedfaraz/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/aahmedfaraz/leetcode/tree/master/0461-hamming-distance) |
+| [0473-matchsticks-to-square](https://github.com/aahmedfaraz/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/aahmedfaraz/leetcode/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/aahmedfaraz/leetcode/tree/master/0868-binary-gap) |
@@ -565,6 +567,7 @@ This repo contains my leetcode practice
 | [0357-count-numbers-with-unique-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/aahmedfaraz/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/aahmedfaraz/leetcode/tree/master/0396-rotate-function) |
+| [0473-matchsticks-to-square](https://github.com/aahmedfaraz/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0509-fibonacci-number](https://github.com/aahmedfaraz/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/aahmedfaraz/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -742,6 +745,7 @@ This repo contains my leetcode practice
 | [0306-additive-number](https://github.com/aahmedfaraz/leetcode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/aahmedfaraz/leetcode/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/aahmedfaraz/leetcode/tree/master/0473-matchsticks-to-square) |
 | [1219-path-with-maximum-gold](https://github.com/aahmedfaraz/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## String Matching
@@ -1016,4 +1020,8 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/aahmedfaraz/leetcode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
