@@ -6,9 +6,6 @@ class Solution:
         def bt(prev, i):
             nonlocal res
 
-            if i == n:
-                return
-
             prev.append(nums[i])
 
             if len(prev) > 1:
