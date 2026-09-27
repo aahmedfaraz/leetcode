@@ -95,6 +95,7 @@ This repo contains my leetcode practice
 | [0473-matchsticks-to-square](https://github.com/aahmedfaraz/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/aahmedfaraz/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/aahmedfaraz/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/aahmedfaraz/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/aahmedfaraz/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aahmedfaraz/leetcode/tree/master/0500-keyboard-row) |
@@ -571,6 +572,7 @@ This repo contains my leetcode practice
 | [0392-is-subsequence](https://github.com/aahmedfaraz/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/aahmedfaraz/leetcode/tree/master/0396-rotate-function) |
 | [0473-matchsticks-to-square](https://github.com/aahmedfaraz/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/aahmedfaraz/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/aahmedfaraz/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -750,6 +752,7 @@ This repo contains my leetcode practice
 | [0401-binary-watch](https://github.com/aahmedfaraz/leetcode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/aahmedfaraz/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/aahmedfaraz/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0494-target-sum) |
 | [1219-path-with-maximum-gold](https://github.com/aahmedfaraz/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## String Matching
@@ -1028,4 +1031,12 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/aahmedfaraz/leetcode/tree/master/0473-matchsticks-to-square) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
