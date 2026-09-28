@@ -99,6 +99,7 @@ This repo contains my leetcode practice
 | [0495-teemo-attacking](https://github.com/aahmedfaraz/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/aahmedfaraz/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aahmedfaraz/leetcode/tree/master/0500-keyboard-row) |
+| [0526-beautiful-arrangement](https://github.com/aahmedfaraz/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0566-reshape-the-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0598-range-addition-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0598-range-addition-ii) |
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
@@ -224,6 +225,7 @@ This repo contains my leetcode practice
 | [0461-hamming-distance](https://github.com/aahmedfaraz/leetcode/tree/master/0461-hamming-distance) |
 | [0473-matchsticks-to-square](https://github.com/aahmedfaraz/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/aahmedfaraz/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/aahmedfaraz/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/aahmedfaraz/leetcode/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/aahmedfaraz/leetcode/tree/master/0868-binary-gap) |
@@ -574,6 +576,7 @@ This repo contains my leetcode practice
 | [0473-matchsticks-to-square](https://github.com/aahmedfaraz/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/aahmedfaraz/leetcode/tree/master/0509-fibonacci-number) |
+| [0526-beautiful-arrangement](https://github.com/aahmedfaraz/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0746-min-cost-climbing-stairs](https://github.com/aahmedfaraz/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aahmedfaraz/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -753,6 +756,7 @@ This repo contains my leetcode practice
 | [0473-matchsticks-to-square](https://github.com/aahmedfaraz/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/aahmedfaraz/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/aahmedfaraz/leetcode/tree/master/0526-beautiful-arrangement) |
 | [1219-path-with-maximum-gold](https://github.com/aahmedfaraz/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## String Matching
@@ -1031,6 +1035,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/aahmedfaraz/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/aahmedfaraz/leetcode/tree/master/0526-beautiful-arrangement) |
 ## Knapsack Problem
 |  |
 | ------- |
