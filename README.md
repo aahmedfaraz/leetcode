@@ -281,6 +281,7 @@ This repo contains my leetcode practice
 | ------- |
 | [0133-clone-graph](https://github.com/aahmedfaraz/leetcode/tree/master/0133-clone-graph) |
 | [0997-find-the-town-judge](https://github.com/aahmedfaraz/leetcode/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/aahmedfaraz/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aahmedfaraz/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/aahmedfaraz/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Heap (Priority Queue)
