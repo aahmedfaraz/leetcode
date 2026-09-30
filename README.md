@@ -131,6 +131,7 @@ This repo contains my leetcode practice
 | [1929-concatenation-of-array](https://github.com/aahmedfaraz/leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aahmedfaraz/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aahmedfaraz/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2057-smallest-index-with-equal-value](https://github.com/aahmedfaraz/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aahmedfaraz/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2751-robot-collisions](https://github.com/aahmedfaraz/leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aahmedfaraz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
