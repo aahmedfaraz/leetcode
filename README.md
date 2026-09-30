@@ -635,6 +635,7 @@ This repo contains my leetcode practice
 | [1323-maximum-69-number](https://github.com/aahmedfaraz/leetcode/tree/master/1323-maximum-69-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aahmedfaraz/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/aahmedfaraz/leetcode/tree/master/1518-water-bottles) |
+| [1952-three-divisors](https://github.com/aahmedfaraz/leetcode/tree/master/1952-three-divisors) |
 | [2652-sum-multiples](https://github.com/aahmedfaraz/leetcode/tree/master/2652-sum-multiples) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aahmedfaraz/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aahmedfaraz/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -936,6 +937,7 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/aahmedfaraz/leetcode/tree/master/1952-three-divisors) |
 ## Design
 |  |
 | ------- |
@@ -1048,4 +1050,16 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0494-target-sum) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aahmedfaraz/leetcode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aahmedfaraz/leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aahmedfaraz/leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
