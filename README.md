@@ -102,6 +102,7 @@ This repo contains my leetcode practice
 | [0526-beautiful-arrangement](https://github.com/aahmedfaraz/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0566-reshape-the-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0598-range-addition-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0598-range-addition-ii) |
+| [0638-shopping-offers](https://github.com/aahmedfaraz/leetcode/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/aahmedfaraz/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/aahmedfaraz/leetcode/tree/master/0704-binary-search) |
@@ -230,6 +231,7 @@ This repo contains my leetcode practice
 | [0473-matchsticks-to-square](https://github.com/aahmedfaraz/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/aahmedfaraz/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/aahmedfaraz/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/aahmedfaraz/leetcode/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/aahmedfaraz/leetcode/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/aahmedfaraz/leetcode/tree/master/0868-binary-gap) |
@@ -585,6 +587,7 @@ This repo contains my leetcode practice
 | [0494-target-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/aahmedfaraz/leetcode/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/aahmedfaraz/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/aahmedfaraz/leetcode/tree/master/0638-shopping-offers) |
 | [0746-min-cost-climbing-stairs](https://github.com/aahmedfaraz/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aahmedfaraz/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -766,6 +769,7 @@ This repo contains my leetcode practice
 | [0491-non-decreasing-subsequences](https://github.com/aahmedfaraz/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/aahmedfaraz/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/aahmedfaraz/leetcode/tree/master/0638-shopping-offers) |
 | [1219-path-with-maximum-gold](https://github.com/aahmedfaraz/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## String Matching
@@ -785,6 +789,7 @@ This repo contains my leetcode practice
 | [0070-climbing-stairs](https://github.com/aahmedfaraz/leetcode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/aahmedfaraz/leetcode/tree/master/0509-fibonacci-number) |
+| [0638-shopping-offers](https://github.com/aahmedfaraz/leetcode/tree/master/0638-shopping-offers) |
 ## Tree
 |  |
 | ------- |
@@ -1046,10 +1051,12 @@ This repo contains my leetcode practice
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/aahmedfaraz/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/aahmedfaraz/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/aahmedfaraz/leetcode/tree/master/0638-shopping-offers) |
 ## Knapsack Problem
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0494-target-sum) |
+| [0638-shopping-offers](https://github.com/aahmedfaraz/leetcode/tree/master/0638-shopping-offers) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -1066,4 +1073,8 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/aahmedfaraz/leetcode/tree/master/1952-three-divisors) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/aahmedfaraz/leetcode/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
