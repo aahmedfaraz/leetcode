@@ -114,6 +114,7 @@ This repo contains my leetcode practice
 | [0874-walking-robot-simulation](https://github.com/aahmedfaraz/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0977-squares-of-a-sorted-array](https://github.com/aahmedfaraz/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/aahmedfaraz/leetcode/tree/master/0997-find-the-town-judge) |
+| [1002-find-common-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1002-find-common-characters) |
 | [1046-last-stone-weight](https://github.com/aahmedfaraz/leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/aahmedfaraz/leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/aahmedfaraz/leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -350,6 +351,7 @@ This repo contains my leetcode practice
 | [0771-jewels-and-stones](https://github.com/aahmedfaraz/leetcode/tree/master/0771-jewels-and-stones) |
 | [0874-walking-robot-simulation](https://github.com/aahmedfaraz/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0997-find-the-town-judge](https://github.com/aahmedfaraz/leetcode/tree/master/0997-find-the-town-judge) |
+| [1002-find-common-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aahmedfaraz/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aahmedfaraz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -534,6 +536,7 @@ This repo contains my leetcode practice
 | [0771-jewels-and-stones](https://github.com/aahmedfaraz/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/aahmedfaraz/leetcode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/aahmedfaraz/leetcode/tree/master/0917-reverse-only-letters) |
+| [1002-find-common-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1002-find-common-characters) |
 | [1078-occurrences-after-bigram](https://github.com/aahmedfaraz/leetcode/tree/master/1078-occurrences-after-bigram) |
 | [1108-defanging-an-ip-address](https://github.com/aahmedfaraz/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
