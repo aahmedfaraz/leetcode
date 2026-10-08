@@ -104,6 +104,7 @@ This repo contains my leetcode practice
 | [0598-range-addition-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0598-range-addition-ii) |
 | [0638-shopping-offers](https://github.com/aahmedfaraz/leetcode/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
+| [0679-24-game](https://github.com/aahmedfaraz/leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/aahmedfaraz/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/aahmedfaraz/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/aahmedfaraz/leetcode/tree/master/0705-design-hashset) |
@@ -642,6 +643,7 @@ This repo contains my leetcode practice
 | [0507-perfect-number](https://github.com/aahmedfaraz/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aahmedfaraz/leetcode/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0598-range-addition-ii) |
+| [0679-24-game](https://github.com/aahmedfaraz/leetcode/tree/master/0679-24-game) |
 | [1103-distribute-candies-to-people](https://github.com/aahmedfaraz/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1185-day-of-the-week](https://github.com/aahmedfaraz/leetcode/tree/master/1185-day-of-the-week) |
 | [1323-maximum-69-number](https://github.com/aahmedfaraz/leetcode/tree/master/1323-maximum-69-number) |
@@ -775,6 +777,7 @@ This repo contains my leetcode practice
 | [0494-target-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/aahmedfaraz/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/aahmedfaraz/leetcode/tree/master/0638-shopping-offers) |
+| [0679-24-game](https://github.com/aahmedfaraz/leetcode/tree/master/0679-24-game) |
 | [1219-path-with-maximum-gold](https://github.com/aahmedfaraz/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## String Matching
