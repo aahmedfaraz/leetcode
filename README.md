@@ -187,6 +187,7 @@ This repo contains my leetcode practice
 | [0209-minimum-size-subarray-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/aahmedfaraz/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aahmedfaraz/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1895-largest-magic-square](https://github.com/aahmedfaraz/leetcode/tree/master/1895-largest-magic-square) |
 ## Binary Search
 |  |
@@ -543,6 +544,7 @@ This repo contains my leetcode practice
 | [1078-occurrences-after-bigram](https://github.com/aahmedfaraz/leetcode/tree/master/1078-occurrences-after-bigram) |
 | [1108-defanging-an-ip-address](https://github.com/aahmedfaraz/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aahmedfaraz/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/aahmedfaraz/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
