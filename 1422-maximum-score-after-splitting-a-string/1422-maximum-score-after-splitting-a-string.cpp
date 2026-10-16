@@ -3,12 +3,15 @@ using namespace std;
 class Solution {
 public:
     int maxScore(string s) {
+        // count 1s
         int sum = 0;
         for (int i = 0; i < s.size(); ++i) {
             if (s[i] == '1') {
                 sum += 1;
             }
         }
+
+        // calculate score
         int score = 0;
         int zeros = 0;
         int ones = 0;
