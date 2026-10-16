@@ -1,30 +1,28 @@
+using namespace std;
 
 class Solution {
 public:
     int maxScore(string s) {
+        int sum = 0;
+        for (int i = 0; i < s.size(); ++i) {
+            if (s[i] == '1') {
+                sum += 1;
+            }
+        }
+        int score = 0;
         int zeros = 0;
         int ones = 0;
-        int ans = 0;
-
-        // Count all ones initially
-        for (char c : s) {
-            if (c == '1') {
-                ones++;
-            }
-        }
-
-        // Move characters from right to left,
-        // keeping the right part non-empty
-        for (int i = 0; i < s.size() - 1; i++) {
+        for (int i = 0; i < s.size()-1; ++i) {
             if (s[i] == '0') {
-                zeros++;
+                zeros += 1;
             } else {
-                ones--;
+                ones += 1;
             }
-
-            ans = max(ans, zeros + ones);
+            int currscore = zeros + (sum - ones);
+            if (currscore > score) {
+                score = currscore;
+            }
         }
-
-        return ans;
+        return score;
     }
 };
