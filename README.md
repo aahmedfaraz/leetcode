@@ -653,6 +653,7 @@ This repo contains my leetcode practice
 | [0598-range-addition-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0598-range-addition-ii) |
 | [0679-24-game](https://github.com/aahmedfaraz/leetcode/tree/master/0679-24-game) |
 | [1103-distribute-candies-to-people](https://github.com/aahmedfaraz/leetcode/tree/master/1103-distribute-candies-to-people) |
+| [1175-prime-arrangements](https://github.com/aahmedfaraz/leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/aahmedfaraz/leetcode/tree/master/1185-day-of-the-week) |
 | [1323-maximum-69-number](https://github.com/aahmedfaraz/leetcode/tree/master/1323-maximum-69-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aahmedfaraz/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -1089,9 +1090,18 @@ This repo contains my leetcode practice
 ## Sieve Theory
 |  |
 | ------- |
+| [1175-prime-arrangements](https://github.com/aahmedfaraz/leetcode/tree/master/1175-prime-arrangements) |
 | [1952-three-divisors](https://github.com/aahmedfaraz/leetcode/tree/master/1952-three-divisors) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/aahmedfaraz/leetcode/tree/master/0638-shopping-offers) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/aahmedfaraz/leetcode/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/aahmedfaraz/leetcode/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
