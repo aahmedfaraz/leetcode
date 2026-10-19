@@ -70,6 +70,7 @@ This repo contains my leetcode practice
 | [0150-evaluate-reverse-polish-notation](https://github.com/aahmedfaraz/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/aahmedfaraz/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/aahmedfaraz/leetcode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/aahmedfaraz/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/aahmedfaraz/leetcode/tree/master/0174-dungeon-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -256,6 +257,7 @@ This repo contains my leetcode practice
 | [0075-sort-colors](https://github.com/aahmedfaraz/leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/aahmedfaraz/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/aahmedfaraz/leetcode/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/aahmedfaraz/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/aahmedfaraz/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aahmedfaraz/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aahmedfaraz/leetcode/tree/master/0217-contains-duplicate) |
@@ -1104,4 +1106,16 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/aahmedfaraz/leetcode/tree/master/1175-prime-arrangements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aahmedfaraz/leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aahmedfaraz/leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aahmedfaraz/leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
