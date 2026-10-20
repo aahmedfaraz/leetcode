@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     int compareVersion(string version1, string version2) {
@@ -8,6 +7,7 @@ public:
         while (i < n || j < m) {
             int num1 = 0, num2 = 0;
 
+            // Extract revision numbers
             while (i < n && version1[i] != '.') {
                 num1 = num1 * 10 + (version1[i] - '0');
                 i++;
@@ -18,6 +18,7 @@ public:
                 j++;
             }
 
+            // Compare revisions
             if (num1 < num2) return -1;
             if (num1 > num2) return 1;
 
