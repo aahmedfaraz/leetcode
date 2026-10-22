@@ -117,6 +117,7 @@ This repo contains my leetcode practice
 | [0977-squares-of-a-sorted-array](https://github.com/aahmedfaraz/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/aahmedfaraz/leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1002-find-common-characters) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/aahmedfaraz/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/aahmedfaraz/leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/aahmedfaraz/leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/aahmedfaraz/leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -241,6 +242,7 @@ This repo contains my leetcode practice
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/aahmedfaraz/leetcode/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/aahmedfaraz/leetcode/tree/master/0868-binary-gap) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/aahmedfaraz/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aahmedfaraz/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/aahmedfaraz/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
