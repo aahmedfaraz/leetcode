@@ -128,6 +128,7 @@ This repo contains my leetcode practice
 | [1354-construct-target-array-with-multiple-sums](https://github.com/aahmedfaraz/leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aahmedfaraz/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aahmedfaraz/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/aahmedfaraz/leetcode/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/aahmedfaraz/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/aahmedfaraz/leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aahmedfaraz/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -363,6 +364,7 @@ This repo contains my leetcode practice
 | [0997-find-the-town-judge](https://github.com/aahmedfaraz/leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aahmedfaraz/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/aahmedfaraz/leetcode/tree/master/1436-destination-city) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aahmedfaraz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -554,6 +556,7 @@ This repo contains my leetcode practice
 | [1108-defanging-an-ip-address](https://github.com/aahmedfaraz/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1436-destination-city](https://github.com/aahmedfaraz/leetcode/tree/master/1436-destination-city) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1816-truncate-sentence](https://github.com/aahmedfaraz/leetcode/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/aahmedfaraz/leetcode/tree/master/2000-reverse-prefix-of-word) |
