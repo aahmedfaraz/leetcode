@@ -553,6 +553,7 @@ This repo contains my leetcode practice
 | [0796-rotate-string](https://github.com/aahmedfaraz/leetcode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/aahmedfaraz/leetcode/tree/master/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-occurrences-after-bigram](https://github.com/aahmedfaraz/leetcode/tree/master/1078-occurrences-after-bigram) |
 | [1108-defanging-an-ip-address](https://github.com/aahmedfaraz/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aahmedfaraz/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -711,6 +712,7 @@ This repo contains my leetcode practice
 | [0496-next-greater-element-i](https://github.com/aahmedfaraz/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/aahmedfaraz/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/aahmedfaraz/leetcode/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/aahmedfaraz/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aahmedfaraz/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1138,4 +1140,8 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aahmedfaraz/leetcode/tree/master/0207-course-schedule) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
