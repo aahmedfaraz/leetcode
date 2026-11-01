@@ -102,6 +102,7 @@ This repo contains my leetcode practice
 | [0500-keyboard-row](https://github.com/aahmedfaraz/leetcode/tree/master/0500-keyboard-row) |
 | [0526-beautiful-arrangement](https://github.com/aahmedfaraz/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0566-reshape-the-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/aahmedfaraz/leetcode/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0598-range-addition-ii) |
 | [0638-shopping-offers](https://github.com/aahmedfaraz/leetcode/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
@@ -359,6 +360,7 @@ This repo contains my leetcode practice
 | [0491-non-decreasing-subsequences](https://github.com/aahmedfaraz/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/aahmedfaraz/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aahmedfaraz/leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/aahmedfaraz/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/aahmedfaraz/leetcode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/aahmedfaraz/leetcode/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/aahmedfaraz/leetcode/tree/master/0748-shortest-completing-word) |
