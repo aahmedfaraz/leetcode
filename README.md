@@ -101,6 +101,7 @@ This repo contains my leetcode practice
 | [0496-next-greater-element-i](https://github.com/aahmedfaraz/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aahmedfaraz/leetcode/tree/master/0500-keyboard-row) |
 | [0526-beautiful-arrangement](https://github.com/aahmedfaraz/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/aahmedfaraz/leetcode/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0598-range-addition-ii) |
@@ -178,6 +179,7 @@ This repo contains my leetcode practice
 | [0240-search-a-2d-matrix-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/aahmedfaraz/leetcode/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/aahmedfaraz/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/aahmedfaraz/leetcode/tree/master/0832-flipping-an-image) |
 | [1219-path-with-maximum-gold](https://github.com/aahmedfaraz/leetcode/tree/master/1219-path-with-maximum-gold) |
@@ -622,6 +624,7 @@ This repo contains my leetcode practice
 | [0494-target-sum](https://github.com/aahmedfaraz/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/aahmedfaraz/leetcode/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/aahmedfaraz/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0542-01-matrix) |
 | [0638-shopping-offers](https://github.com/aahmedfaraz/leetcode/tree/master/0638-shopping-offers) |
 | [0746-min-cost-climbing-stairs](https://github.com/aahmedfaraz/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aahmedfaraz/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -964,6 +967,7 @@ This repo contains my leetcode practice
 | [0404-sum-of-left-leaves](https://github.com/aahmedfaraz/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/aahmedfaraz/leetcode/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aahmedfaraz/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0542-01-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
