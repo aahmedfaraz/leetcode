@@ -874,6 +874,7 @@ This repo contains my leetcode practice
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aahmedfaraz/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aahmedfaraz/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0993-cousins-in-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -906,6 +907,7 @@ This repo contains my leetcode practice
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aahmedfaraz/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aahmedfaraz/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0993-cousins-in-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -944,6 +946,7 @@ This repo contains my leetcode practice
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aahmedfaraz/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aahmedfaraz/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0993-cousins-in-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -968,6 +971,7 @@ This repo contains my leetcode practice
 | [0463-island-perimeter](https://github.com/aahmedfaraz/leetcode/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aahmedfaraz/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/aahmedfaraz/leetcode/tree/master/0542-01-matrix) |
+| [0993-cousins-in-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
