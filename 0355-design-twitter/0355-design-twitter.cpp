@@ -8,9 +8,8 @@ public:
     Twitter() {}
 
     void postTweet(int userId, int tweetId) {
-        pair<int, int> tweet = {timestamp, tweetId};
+        tweets[userId].push_back({timestamp, tweetId});
         timestamp++;
-        tweets[userId].push_back(tweet);
         if (tweets[userId].size() > 10) {
             tweets[userId].erase(tweets[userId].begin());
         }
@@ -18,42 +17,37 @@ public:
 
     vector<int> getNewsFeed(int userId) {
         vector<int> result;
-        unordered_map<int, int> indices;
-
-        for (int followee: follows[userId]) {
-            indices[followee] = tweets[followee].size() - 1; // pointing to last element, if no elements pointing to -1
+        priority_queue<tuple<int, int, int>> pq; // tuple = time, userId, index
+        
+        int tweetIdx = tweets[userId].size() - 1;
+        if (tweetIdx >= 0) {
+            auto [time, twId] = tweets[userId][tweetIdx];
+            pq.push({time, userId, tweetIdx});
         }
-        indices[userId] = tweets[userId].size() - 1;
 
-        for (int i = 0; i < 10; i++) {
-            int latPerId = -1;
-            int latTweetId = -1;
-            int latTime = INT_MIN;
-
-            for (auto item: indices) {
-                int personId = item.first;
-                int tweetIdx = item.second;
-
-                if (tweetIdx < 0)
-                    continue;
-
-                pair<int, int> tweet = tweets[personId][tweetIdx];
-                int time = tweet.first;
-                int tweetId = tweet.second;
-
-                if (time > latTime) {
-                    latPerId = personId;
-                    latTweetId = tweetId;
-                    latTime = time;
-                }
+        for (auto followeeId: follows[userId]) {
+            tweetIdx = tweets[followeeId].size() - 1;
+            if (tweetIdx >= 0) {
+                auto [time, twId] = tweets[followeeId][tweetIdx];
+                pq.push({time, followeeId, tweetIdx});
             }
+        }
 
-            if (latPerId == -1)
-                break;
+        if (pq.empty())
+            return result;
+        
+        while (!pq.empty() && result.size() < 10) {
+            auto [time, personId, index] = pq.top();
+            auto [t, tweetId] = tweets[personId][index];
+            pq.pop();
 
-            indices[latPerId]--;
-            
-            result.push_back(latTweetId);
+            result.push_back(tweetId);
+
+            index--;
+            if (index >= 0) {
+                auto [newtime, newtweetId] = tweets[personId][index];
+                pq.push({newtime, personId, index});
+            }
         }
 
         return result;
