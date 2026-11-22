@@ -151,6 +151,7 @@ This repo contains my leetcode practice
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aahmedfaraz/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/aahmedfaraz/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aahmedfaraz/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aahmedfaraz/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aahmedfaraz/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -378,6 +379,7 @@ This repo contains my leetcode practice
 | [1189-maximum-number-of-balloons](https://github.com/aahmedfaraz/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aahmedfaraz/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/aahmedfaraz/leetcode/tree/master/1436-destination-city) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aahmedfaraz/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aahmedfaraz/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aahmedfaraz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -584,6 +586,7 @@ This repo contains my leetcode practice
 | [2075-decode-the-slanted-ciphertext](https://github.com/aahmedfaraz/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aahmedfaraz/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aahmedfaraz/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aahmedfaraz/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aahmedfaraz/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -888,6 +891,7 @@ This repo contains my leetcode practice
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aahmedfaraz/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0993-cousins-in-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aahmedfaraz/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -922,6 +926,7 @@ This repo contains my leetcode practice
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aahmedfaraz/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0993-cousins-in-binary-tree](https://github.com/aahmedfaraz/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aahmedfaraz/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
