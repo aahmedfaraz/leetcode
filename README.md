@@ -681,6 +681,7 @@ This repo contains my leetcode practice
 | [0357-count-numbers-with-unique-digits](https://github.com/aahmedfaraz/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/aahmedfaraz/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/aahmedfaraz/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/aahmedfaraz/leetcode/tree/master/0372-super-pow) |
 | [0382-linked-list-random-node](https://github.com/aahmedfaraz/leetcode/tree/master/0382-linked-list-random-node) |
 | [0396-rotate-function](https://github.com/aahmedfaraz/leetcode/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aahmedfaraz/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -778,6 +779,7 @@ This repo contains my leetcode practice
 | [0191-number-of-1-bits](https://github.com/aahmedfaraz/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aahmedfaraz/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aahmedfaraz/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0372-super-pow](https://github.com/aahmedfaraz/leetcode/tree/master/0372-super-pow) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aahmedfaraz/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Recursion
 |  |
@@ -1185,4 +1187,12 @@ This repo contains my leetcode practice
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/aahmedfaraz/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/aahmedfaraz/leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/aahmedfaraz/leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
